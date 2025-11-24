@@ -117,23 +117,6 @@ The script generates a CSV file containing all scraped botanical data, which can
 - Common names may include additional descriptive text
 - Native region data varies in specificity
 
-## Future Enhancements
-
-- Add more plant genera
-- Implement error handling for network issues
-- Include additional botanical characteristics (height, bloom time, etc.)
-- Add data validation and cleaning functions
-- Create visualization dashboards
-- Implement automated testing
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Data sourced from Wikipedia
