@@ -1,0 +1,1700 @@
+Plant_ID,Scientific_Name,Common_Names,Genus,Family,Plant_Type,Native_Region
+1,Pinus,N/A,Pinus,Pinaceae,Tree,N/A
+2,Pinus latahensis,"Early Eocene, Klondike Mountain Formation, Allenby Formation",Pinus,Pinaceae,Tree,Okanagan Highlands Floras
+3,Pinus macrophylla,"Early Eocene, Klondike Mountain Formation, Allenby Formation",Pinus,Pinaceae,Tree,Okanagan Highlands Floras
+4,Pinus peregrinus,"Middle Eocene, Golden Valley Formation, North Dakota, US",Pinus,Pinaceae,Tree,"Middle Eocene, Golden Valley Formation, North Dakota, US"
+5,Pinus tetrafolia,"Early Eocene, Klondike Mountain Formation",Pinus,Pinaceae,Tree,Okanagan Highlands Floras
+6,Pinus uncinata,N/A,Pinus,Pinaceae,Tree,N/A
+7,Pinus mugo,N/A,Pinus,Pinaceae,Tree,N/A
+8,Pinus merkusii,26. doi:10.12905/0380.phython54(1)2014-0001.,Pinus,Pinaceae,Tree,26. doi:10.12905/0380.phython54(1)2014-0001.
+9,Pinus hondurensis,N/A,Pinus,Pinaceae,Tree,N/A
+10,Pinus luzmariae,N/A,Pinus,Pinaceae,Tree,N/A
+11,Pinus contorta,N/A,Pinus,Pinaceae,Tree,N/A
+12,Pinus apulcensis,N/A,Pinus,Pinaceae,Tree,N/A
+13,Pinus estevezii,N/A,Pinus,Pinaceae,Tree,N/A
+14,Pinus martinezii,N/A,Pinus,Pinaceae,Tree,N/A
+15,Pinus brachyptera,N/A,Pinus,Pinaceae,Tree,N/A
+16,Pinus scopulorum,N/A,Pinus,Pinaceae,Tree,N/A
+17,Pinus driftwoodensis,156. doi:10.1086/337355. JSTOR 2474678. S2CID 84907438.,Pinus,Pinaceae,Tree,156. doi:10.1086/337355. JSTOR 2474678. S2CID 84907438.
+18,Rosa,"white and yellow species from China
+Bracteatae",Rosa,Rosaceae,Shrub,"white, pink, and crimson species from all areas"
+19,Rosa abietina,N/A,Rosa,Rosaceae,Shrub,N/A
+20,Rosa abrica,N/A,Rosa,Rosaceae,Shrub,N/A
+21,Rosa abutalybovii,N/A,Rosa,Rosaceae,Shrub,N/A
+22,Rosa abyssinica,"Abyssinian rose, Ethiopian rose, wild Ethiopian rose, African rose",Rosa,Rosaceae,Shrub,"Abyssinian rose, Ethiopian rose, wild Ethiopian rose, African rose"
+23,Rosa achburensis,N/A,Rosa,Rosaceae,Shrub,N/A
+24,Rosa acicularis,"wild rose, prickly rose, prickly wild rose, bristly rose, Arctic rose (Rosa)",Rosa,Rosaceae,Shrub,"wild rose, prickly rose, prickly wild rose, bristly rose, Arctic rose (Rosa)"
+25,Rosa adenophylla,N/A,Rosa,Rosaceae,Shrub,N/A
+26,Rosa agrestis,"small-leaved sweet briar, field briar, fieldbriar (Caninae)",Rosa,Rosaceae,Shrub,"small-leaved sweet briar, field briar, fieldbriar (Caninae)"
+27,Rosa alabukensis,N/A,Rosa,Rosaceae,Shrub,N/A
+28,Rosa alberti,N/A,Rosa,Rosaceae,Shrub,N/A
+29,Rosa alexeenkoi,N/A,Rosa,Rosaceae,Shrub,N/A
+30,Rosa altidaghestanica,N/A,Rosa,Rosaceae,Shrub,N/A
+31,Rosa amblyophylla,N/A,Rosa,Rosaceae,Shrub,N/A
+32,Rosa arabica,N/A,Rosa,Rosaceae,Shrub,N/A
+33,Rosa arensii,N/A,Rosa,Rosaceae,Shrub,N/A
+34,Rosa arkansana,"prairie rose, wild prairie rose (Rosa)",Rosa,Rosaceae,Shrub,"prairie rose, wild prairie rose (Rosa)"
+35,Rosa arvensis,"field rose, white-flowered trailing rose, Shakespeare's musk (Synstylae)",Rosa,Rosaceae,Shrub,"field rose, white-flowered trailing rose, Shakespeare's musk (Synstylae)"
+36,Rosa awarica,N/A,Rosa,Rosaceae,Shrub,N/A
+37,Rosa baiyushanensis,N/A,Rosa,Rosaceae,Shrub,N/A
+38,Rosa balcarica,N/A,Rosa,Rosaceae,Shrub,N/A
+39,Rosa balsamica,N/A,Rosa,Rosaceae,Shrub,N/A
+40,Rosa banksiae,"Lady Banks' rose, Banks' rose",Rosa,Rosaceae,Shrub,"Lady Banks' rose, Banks' rose"
+41,Rosa banksiopsis,N/A,Rosa,Rosaceae,Shrub,N/A
+42,Rosa beauvaisii,N/A,Rosa,Rosaceae,Shrub,N/A
+43,Rosa beggeriana,(Gymnocarpae),Rosa,Rosaceae,Shrub,(Gymnocarpae)
+44,Rosa bella,N/A,Rosa,Rosaceae,Shrub,N/A
+45,Rosa bellicosa,N/A,Rosa,Rosaceae,Shrub,N/A
+46,Rosa biebersteiniana,N/A,Rosa,Rosaceae,Shrub,N/A
+47,Rosa blanda,"smooth rose, meadow/wild rose, prairie rose",Rosa,Rosaceae,Shrub,"smooth rose, meadow/wild rose, prairie rose"
+48,Rosa boissieri,N/A,Rosa,Rosaceae,Shrub,N/A
+49,Rosa bracteata,Macartney rose (Bracteatae),Rosa,Rosaceae,Shrub,Macartney rose (Bracteatae)
+50,Rosa bridgesii,"pygmy rose, Sierran dwarf rose",Rosa,Rosaceae,Shrub,"pygmy rose, Sierran dwarf rose"
+51,Rosa brotherorum,N/A,Rosa,Rosaceae,Shrub,N/A
+52,Rosa brunonii,Himalayan musk rose (Synstylae),Rosa,Rosaceae,Shrub,Himalayan musk rose (Synstylae)
+53,Rosa bugensis,N/A,Rosa,Rosaceae,Shrub,N/A
+54,Rosa buschiana,N/A,Rosa,Rosaceae,Shrub,N/A
+55,Rosa caesia,N/A,Rosa,Rosaceae,Shrub,N/A
+56,Rosa calantha,N/A,Rosa,Rosaceae,Shrub,N/A
+57,Rosa calcarea,N/A,Rosa,Rosaceae,Shrub,N/A
+58,Rosa californica,"California rose, California wild rose (Rosa)",Rosa,Rosaceae,Shrub,"California rose, California wild rose (Rosa)"
+59,Rosa calyptopoda,N/A,Rosa,Rosaceae,Shrub,N/A
+60,Rosa × canadensis,N/A,Rosa,Rosaceae,Shrub,N/A
+61,Rosa canina,dog rose (Caninae),Rosa,Rosaceae,Shrub,dog rose (Caninae)
+62,Rosa carolina,"Carolina rose, pasture rose, prairie rose (Carolinae)",Rosa,Rosaceae,Shrub,"Carolina rose, pasture rose, prairie rose (Carolinae)"
+63,Rosa caryophyllacea,N/A,Rosa,Rosaceae,Shrub,N/A
+64,Rosa caudata,N/A,Rosa,Rosaceae,Shrub,N/A
+65,Rosa chavinii,N/A,Rosa,Rosaceae,Shrub,N/A
+66,Rosa chengkouensis,N/A,Rosa,Rosaceae,Shrub,N/A
+67,Rosa chinensis,"Chinese rose, China rose, Bengal rose",Rosa,Rosaceae,Shrub,"Chinese rose, China rose, Bengal rose"
+68,Rosa chionistrae,N/A,Rosa,Rosaceae,Shrub,N/A
+69,Rosa cinnamomea,N/A,Rosa,Rosaceae,Shrub,N/A
+70,Rosa corymbifera,(Caninae),Rosa,Rosaceae,Shrub,(Caninae)
+71,Rosa corymbulosa,N/A,Rosa,Rosaceae,Shrub,N/A
+72,Rosa coziae,N/A,Rosa,Rosaceae,Shrub,N/A
+73,Rosa cymosa,N/A,Rosa,Rosaceae,Shrub,N/A
+74,Rosa cziragensis,N/A,Rosa,Rosaceae,Shrub,N/A
+75,Rosa daishanensis,N/A,Rosa,Rosaceae,Shrub,N/A
+76,Rosa darginica,N/A,Rosa,Rosaceae,Shrub,N/A
+77,Rosa davidii,Father David's rose (Rosa),Rosa,Rosaceae,Shrub,Father David's rose (Rosa)
+78,Rosa davurica,N/A,Rosa,Rosaceae,Shrub,N/A
+79,Rosa deqenensis,N/A,Rosa,Rosaceae,Shrub,N/A
+80,Rosa derongensis,N/A,Rosa,Rosaceae,Shrub,N/A
+81,Rosa deseglisei,N/A,Rosa,Rosaceae,Shrub,N/A
+82,Rosa diplodonta,N/A,Rosa,Rosaceae,Shrub,N/A
+83,Rosa dolichocarpa,N/A,Rosa,Rosaceae,Shrub,N/A
+84,Rosa doluchanovii,N/A,Rosa,Rosaceae,Shrub,N/A
+85,Rosa donetzica,N/A,Rosa,Rosaceae,Shrub,N/A
+86,Rosa dsharkenti,N/A,Rosa,Rosaceae,Shrub,N/A
+87,Rosa dubovikiae,N/A,Rosa,Rosaceae,Shrub,N/A
+88,Rosa duplicata,N/A,Rosa,Rosaceae,Shrub,N/A
+89,Rosa ecae,(Pimpinellifoliae),Rosa,Rosaceae,Shrub,(Pimpinellifoliae)
+90,Rosa elymaitica,N/A,Rosa,Rosaceae,Shrub,N/A
+91,Rosa ermanica,N/A,Rosa,Rosaceae,Shrub,N/A
+92,Rosa facsarii,N/A,Rosa,Rosaceae,Shrub,N/A
+93,Rosa fargesiana,N/A,Rosa,Rosaceae,Shrub,N/A
+94,Rosa farreri,Farrer's threepenny-bit rose,Rosa,Rosaceae,Shrub,Farrer's threepenny-bit rose
+95,Rosa filipes,N/A,Rosa,Rosaceae,Shrub,N/A
+96,Rosa foetida,"Austrian briar, Austrian copper rose, Persian yellow rose (Pimpinellifoliae)",Rosa,Rosaceae,Shrub,"Austrian briar, Austrian copper rose, Persian yellow rose (Pimpinellifoliae)"
+97,Rosa foliolosa,N/A,Rosa,Rosaceae,Shrub,N/A
+98,Rosa forrestiana,N/A,Rosa,Rosaceae,Shrub,N/A
+99,Rosa freitagii,N/A,Rosa,Rosaceae,Shrub,N/A
+100,Rosa fujisanensis,N/A,Rosa,Rosaceae,Shrub,N/A
+101,Rosa gadzhievii,N/A,Rosa,Rosaceae,Shrub,N/A
+102,Rosa gallica,"Gallic rose, French rose, rose of Provins (Gallicanae)",Rosa,Rosaceae,Shrub,"Gallic rose, French rose, rose of Provins (Gallicanae)"
+103,Rosa galushkoi,N/A,Rosa,Rosaceae,Shrub,N/A
+104,Rosa gigantea,N/A,Rosa,Rosaceae,Shrub,N/A
+105,Rosa giraldii,N/A,Rosa,Rosaceae,Shrub,N/A
+106,Rosa glabrifolia,N/A,Rosa,Rosaceae,Shrub,N/A
+107,Rosa glandulososetosa,N/A,Rosa,Rosaceae,Shrub,N/A
+108,Rosa glauca,"red-leaved rose, redleaf rose",Rosa,Rosaceae,Shrub,"red-leaved rose, redleaf rose"
+109,Rosa glomerata,N/A,Rosa,Rosaceae,Shrub,N/A
+110,Rosa gorenkensis,N/A,Rosa,Rosaceae,Shrub,N/A
+111,Rosa graciliflora,N/A,Rosa,Rosaceae,Shrub,N/A
+112,Rosa gracilipes,N/A,Rosa,Rosaceae,Shrub,N/A
+113,Rosa gymnocarpa,"dwarf rose, wood rose, bald-hip rose (Gymnocarpae)",Rosa,Rosaceae,Shrub,"dwarf rose, wood rose, bald-hip rose (Gymnocarpae)"
+114,Rosa heckeliana,N/A,Rosa,Rosaceae,Shrub,N/A
+115,Rosa helenae,(Synstylae),Rosa,Rosaceae,Shrub,(Synstylae)
+116,Rosa hemisphaerica,sulphur rose (Pimpinellifoliae),Rosa,Rosaceae,Shrub,sulphur rose (Pimpinellifoliae)
+117,Rosa henryi,N/A,Rosa,Rosaceae,Shrub,N/A
+118,Rosa hezhangensis,N/A,Rosa,Rosaceae,Shrub,N/A
+119,Rosa hirtissima,N/A,Rosa,Rosaceae,Shrub,N/A
+120,Rosa hirtula,"Hakone rose, sanshou-bara",Rosa,Rosaceae,Shrub,"Hakone rose, sanshou-bara"
+121,Rosa iberica,N/A,Rosa,Rosaceae,Shrub,N/A
+122,Rosa iliensis,N/A,Rosa,Rosaceae,Shrub,N/A
+123,Rosa iljinii,N/A,Rosa,Rosaceae,Shrub,N/A
+124,Rosa inodora,N/A,Rosa,Rosaceae,Shrub,N/A
+125,Rosa irinae,N/A,Rosa,Rosaceae,Shrub,N/A
+126,Rosa irysthonica,N/A,Rosa,Rosaceae,Shrub,N/A
+127,Rosa isaevii,N/A,Rosa,Rosaceae,Shrub,N/A
+128,Rosa jaroschenkoi,N/A,Rosa,Rosaceae,Shrub,N/A
+129,Rosa juzepczukiana,N/A,Rosa,Rosaceae,Shrub,N/A
+130,Rosa kamelinii,N/A,Rosa,Rosaceae,Shrub,N/A
+131,Rosa karaalmensis,N/A,Rosa,Rosaceae,Shrub,N/A
+132,Rosa kazarjanii,N/A,Rosa,Rosaceae,Shrub,N/A
+133,Rosa khasautensis,N/A,Rosa,Rosaceae,Shrub,N/A
+134,Rosa kokanica,(Pimpinellifoliae),Rosa,Rosaceae,Shrub,(Pimpinellifoliae)
+135,Rosa kokijrimensis,N/A,Rosa,Rosaceae,Shrub,N/A
+136,Rosa koreana,N/A,Rosa,Rosaceae,Shrub,N/A
+137,Rosa kuhitangi,N/A,Rosa,Rosaceae,Shrub,N/A
+138,Rosa kujmanica,N/A,Rosa,Rosaceae,Shrub,N/A
+139,Rosa kunmingensis,N/A,Rosa,Rosaceae,Shrub,N/A
+140,Rosa kwangtungensis,N/A,Rosa,Rosaceae,Shrub,N/A
+141,Rosa kweichowensis,N/A,Rosa,Rosaceae,Shrub,N/A
+142,Rosa laevigata,Cherokee rose (Laevigatae),Rosa,Rosaceae,Shrub,Cherokee rose (Laevigatae)
+143,Rosa langyashanica,N/A,Rosa,Rosaceae,Shrub,N/A
+144,Rosa lasiosepala,N/A,Rosa,Rosaceae,Shrub,N/A
+145,Rosa laxa,(Rosa),Rosa,Rosaceae,Shrub,(Rosa)
+146,Rosa leschenaultiana,N/A,Rosa,Rosaceae,Shrub,N/A
+147,Rosa lichiangensis,N/A,Rosa,Rosaceae,Shrub,N/A
+148,Rosa livescens,N/A,Rosa,Rosaceae,Shrub,N/A
+149,Rosa longicuspis,N/A,Rosa,Rosaceae,Shrub,N/A
+150,Rosa longshoushanica,N/A,Rosa,Rosaceae,Shrub,N/A
+151,Rosa lucidissima,N/A,Rosa,Rosaceae,Shrub,N/A
+152,Rosa lucieae,memorial rose,Rosa,Rosaceae,Shrub,memorial rose
+153,Rosa ludingensis,N/A,Rosa,Rosaceae,Shrub,N/A
+154,Rosa macrophylla,big-hip rose (Rosa),Rosa,Rosaceae,Shrub,big-hip rose (Rosa)
+155,Rosa mairei,N/A,Rosa,Rosaceae,Shrub,N/A
+156,Rosa majalis,"cinnamon rose, double cinnamon rose (Rosa)",Rosa,Rosaceae,Shrub,"cinnamon rose, double cinnamon rose (Rosa)"
+157,Rosa mandenovae,N/A,Rosa,Rosaceae,Shrub,N/A
+158,Rosa mandonii,N/A,Rosa,Rosaceae,Shrub,N/A
+159,Rosa marginata,N/A,Rosa,Rosaceae,Shrub,N/A
+160,Rosa maximowicziana,N/A,Rosa,Rosaceae,Shrub,N/A
+161,Rosa memoryae,N/A,Rosa,Rosaceae,Shrub,N/A
+162,Rosa mesatlantica,N/A,Rosa,Rosaceae,Shrub,N/A
+163,Rosa micrantha,small-flowered sweet briar,Rosa,Rosaceae,Shrub,small-flowered sweet briar
+164,Rosa minutifolia,"small-leaved rose, Baja rose, Baja littleleaf rose (Hesperrhodos)",Rosa,Rosaceae,Shrub,"small-leaved rose, Baja rose, Baja littleleaf rose (Hesperrhodos)"
+165,Rosa miyiensis,N/A,Rosa,Rosaceae,Shrub,N/A
+166,Rosa mollis,small downy-rose,Rosa,Rosaceae,Shrub,small downy-rose
+167,Rosa montana,N/A,Rosa,Rosaceae,Shrub,N/A
+168,Rosa morrisonensis,N/A,Rosa,Rosaceae,Shrub,N/A
+169,Rosa moschata,musk rose,Rosa,Rosaceae,Shrub,musk rose
+170,Rosa moyesii,(Rosa),Rosa,Rosaceae,Shrub,(Rosa)
+171,Rosa multibracteata,(Rosa),Rosa,Rosaceae,Shrub,(Rosa)
+172,Rosa multiflora,"multiflora rose, many-flowered rose, seven-sisters rose, Japanese rose, Eijitsu rose, baby rose, rambler rose (Synstylae)",Rosa,Rosaceae,Shrub,"multiflora rose, many-flowered rose, seven-sisters rose, Japanese rose, Eijitsu rose, baby rose, rambler rose (Synstylae)"
+173,Rosa murielae,N/A,Rosa,Rosaceae,Shrub,N/A
+174,Rosa nipponensis,N/A,Rosa,Rosaceae,Shrub,N/A
+175,Rosa nitida,shining rose (Carolinae),Rosa,Rosaceae,Shrub,shining rose (Carolinae)
+176,Rosa nutkana,"Nootka rose, bristly rose, wild rose",Rosa,Rosaceae,Shrub,"Nootka rose, bristly rose, wild rose"
+177,Rosa obtegens,N/A,Rosa,Rosaceae,Shrub,N/A
+178,Rosa omeiensis,N/A,Rosa,Rosaceae,Shrub,N/A
+179,Rosa onoei,N/A,Rosa,Rosaceae,Shrub,N/A
+180,Rosa orientalis,N/A,Rosa,Rosaceae,Shrub,N/A
+181,Rosa osmastonii,N/A,Rosa,Rosaceae,Shrub,N/A
+182,Rosa ossethica,N/A,Rosa,Rosaceae,Shrub,N/A
+183,Rosa oxyacantha,N/A,Rosa,Rosaceae,Shrub,N/A
+184,Rosa oxyodon,N/A,Rosa,Rosaceae,Shrub,N/A
+185,Rosa palustris,swamp rose (Carolinae),Rosa,Rosaceae,Shrub,swamp rose (Carolinae)
+186,Rosa paniculigera,N/A,Rosa,Rosaceae,Shrub,N/A
+187,Rosa pedunculata,N/A,Rosa,Rosaceae,Shrub,N/A
+188,Rosa pendulina,"Alpine rose, mountain rose",Rosa,Rosaceae,Shrub,"Alpine rose, mountain rose"
+189,Rosa persetosa,N/A,Rosa,Rosaceae,Shrub,N/A
+190,Rosa persica,N/A,Rosa,Rosaceae,Shrub,N/A
+191,Rosa phoenicia,N/A,Rosa,Rosaceae,Shrub,N/A
+192,Rosa pimpinellifolia,burnet rose,Rosa,Rosaceae,Shrub,burnet rose
+193,Rosa pinetorum,pine rose,Rosa,Rosaceae,Shrub,pine rose
+194,Rosa pinnatisepala,N/A,Rosa,Rosaceae,Shrub,N/A
+195,Rosa pisocarpa,"cluster rose, swamp rose",Rosa,Rosaceae,Shrub,"cluster rose, swamp rose"
+196,Rosa platyacantha,N/A,Rosa,Rosaceae,Shrub,N/A
+197,Rosa popovii,N/A,Rosa,Rosaceae,Shrub,N/A
+198,Rosa pouzinii,N/A,Rosa,Rosaceae,Shrub,N/A
+199,Rosa praelucens,N/A,Rosa,Rosaceae,Shrub,N/A
+200,Rosa praetermissa,N/A,Rosa,Rosaceae,Shrub,N/A
+201,Rosa prattii,N/A,Rosa,Rosaceae,Shrub,N/A
+202,Rosa pricei,N/A,Rosa,Rosaceae,Shrub,N/A
+203,Rosa primula,incense rose (Pimpinellifoliae),Rosa,Rosaceae,Shrub,incense rose (Pimpinellifoliae)
+204,Rosa prokhanovii,N/A,Rosa,Rosaceae,Shrub,N/A
+205,Rosa pseudobanksiae,N/A,Rosa,Rosaceae,Shrub,N/A
+206,Rosa pseudoscabriuscula,N/A,Rosa,Rosaceae,Shrub,N/A
+207,Rosa pubicaulis,N/A,Rosa,Rosaceae,Shrub,N/A
+208,Rosa pulverulenta,N/A,Rosa,Rosaceae,Shrub,N/A
+209,Rosa rhaetica,N/A,Rosa,Rosaceae,Shrub,N/A
+210,Rosa roopiae,N/A,Rosa,Rosaceae,Shrub,N/A
+211,Rosa roxburghii,"chestnut rose, burr rose (Platyrhodon)",Rosa,Rosaceae,Shrub,"chestnut rose, burr rose (Platyrhodon)"
+212,Rosa rubiginosa,"sweetbriar rose, sweet briar, sweet brier, eglantine (Caninae)",Rosa,Rosaceae,Shrub,"sweetbriar rose, sweet briar, sweet brier, eglantine (Caninae)"
+213,Rosa rubus,N/A,Rosa,Rosaceae,Shrub,N/A
+214,Rosa rugosa,"rugosa rose, beach rose, Japanese rose, Ramanas rose, letchberry (Rosa)",Rosa,Rosaceae,Shrub,"rugosa rose, beach rose, Japanese rose, Ramanas rose, letchberry (Rosa)"
+215,Rosa russanovii,N/A,Rosa,Rosaceae,Shrub,N/A
+216,Rosa sambucina,N/A,Rosa,Rosaceae,Shrub,N/A
+217,Rosa saturata,N/A,Rosa,Rosaceae,Shrub,N/A
+218,Rosa saundersiae,N/A,Rosa,Rosaceae,Shrub,N/A
+219,Rosa schergiana,N/A,Rosa,Rosaceae,Shrub,N/A
+220,Rosa schrenkiana,N/A,Rosa,Rosaceae,Shrub,N/A
+221,Rosa sempervirens,evergreen rose (Synstylae),Rosa,Rosaceae,Shrub,evergreen rose (Synstylae)
+222,Rosa serafinii,N/A,Rosa,Rosaceae,Shrub,N/A
+223,Rosa sericea,silky rose (Pimpinellifoliae),Rosa,Rosaceae,Shrub,silky rose (Pimpinellifoliae)
+224,Rosa sertata,N/A,Rosa,Rosaceae,Shrub,N/A
+225,Rosa setigera,"climbing rose, climbing wild rose, prairie rose (Synstylae)",Rosa,Rosaceae,Shrub,"climbing rose, climbing wild rose, prairie rose (Synstylae)"
+226,Rosa setipoda,N/A,Rosa,Rosaceae,Shrub,N/A
+227,Rosa shangchengensis,N/A,Rosa,Rosaceae,Shrub,N/A
+228,Rosa sherardii,N/A,Rosa,Rosaceae,Shrub,N/A
+229,Rosa sikangensis,N/A,Rosa,Rosaceae,Shrub,N/A
+230,Rosa sinobiflora,N/A,Rosa,Rosaceae,Shrub,N/A
+231,Rosa sogdiana,N/A,Rosa,Rosaceae,Shrub,N/A
+232,Rosa soulieana,(Synstylae),Rosa,Rosaceae,Shrub,(Synstylae)
+233,Rosa spithamea,N/A,Rosa,Rosaceae,Shrub,N/A
+234,Rosa squarrosa,N/A,Rosa,Rosaceae,Shrub,N/A
+235,Rosa stellata,"star rose, desert rose, gooseberry rose (Hesperrhodos)",Rosa,Rosaceae,Shrub,"star rose, desert rose, gooseberry rose (Hesperrhodos)"
+236,Rosa stylosa,N/A,Rosa,Rosaceae,Shrub,N/A
+237,Rosa subbuschiana,N/A,Rosa,Rosaceae,Shrub,N/A
+238,Rosa taiwanensis,N/A,Rosa,Rosaceae,Shrub,N/A
+239,Rosa taronensis,N/A,Rosa,Rosaceae,Shrub,N/A
+240,Rosa teberdensis,N/A,Rosa,Rosaceae,Shrub,N/A
+241,Rosa terscolensis,N/A,Rosa,Rosaceae,Shrub,N/A
+242,Rosa tianschanica,N/A,Rosa,Rosaceae,Shrub,N/A
+243,Rosa tibetica,N/A,Rosa,Rosaceae,Shrub,N/A
+244,Rosa tlaratensis,N/A,Rosa,Rosaceae,Shrub,N/A
+245,Rosa tomentosa,harsh downy-rose,Rosa,Rosaceae,Shrub,harsh downy-rose
+246,Rosa transcaucasica,N/A,Rosa,Rosaceae,Shrub,N/A
+247,Rosa transmorrisonensis,N/A,Rosa,Rosaceae,Shrub,N/A
+248,Rosa tschimganica,N/A,Rosa,Rosaceae,Shrub,N/A
+249,Rosa tsinlingensis,N/A,Rosa,Rosaceae,Shrub,N/A
+250,Rosa tunquinensis,N/A,Rosa,Rosaceae,Shrub,N/A
+251,Rosa turcica,N/A,Rosa,Rosaceae,Shrub,N/A
+252,Rosa turkestanica,N/A,Rosa,Rosaceae,Shrub,N/A
+253,Rosa uniflora,N/A,Rosa,Rosaceae,Shrub,N/A
+254,Rosa uniflorella,N/A,Rosa,Rosaceae,Shrub,N/A
+255,Rosa usischensis,N/A,Rosa,Rosaceae,Shrub,N/A
+256,Rosa vassilczenkoi,N/A,Rosa,Rosaceae,Shrub,N/A
+257,Rosa villosa,apple rose,Rosa,Rosaceae,Shrub,apple rose
+258,Rosa virginiana,"Virginia rose, common wild rose, prairie rose",Rosa,Rosaceae,Shrub,"Virginia rose, common wild rose, prairie rose"
+259,Rosa webbiana,"Webb's rose, thorny rose, prairie rose",Rosa,Rosaceae,Shrub,"Webb's rose, thorny rose, prairie rose"
+260,Rosa weisiensis,N/A,Rosa,Rosaceae,Shrub,N/A
+261,Rosa willmottiae,"Miss Willmott's rose, Willmott's rose (Gymnocarpae)",Rosa,Rosaceae,Shrub,"Miss Willmott's rose, Willmott's rose (Gymnocarpae)"
+262,Rosa woodsii,"Woods' rose, interior rose, mountain rose, pear-hip rose, common wild rose, prairie rose",Rosa,Rosaceae,Shrub,"Woods' rose, interior rose, mountain rose, pear-hip rose, common wild rose, prairie rose"
+263,Rosa xanthina,"yellow rose, Manchu rose",Rosa,Rosaceae,Shrub,"yellow rose, Manchu rose"
+264,Rosa zalana,N/A,Rosa,Rosaceae,Shrub,N/A
+265,Rosa zaramagensis,N/A,Rosa,Rosaceae,Shrub,N/A
+266,Rosa zhongdianensis,N/A,Rosa,Rosaceae,Shrub,N/A
+267,Rosa zuvandica,N/A,Rosa,Rosaceae,Shrub,N/A
+268,Iris,N/A,Iris,Iridaceae,Perennial,N/A
+269,Iris adriatica,N/A,Iris,Iridaceae,Perennial,N/A
+270,Iris albertii,N/A,Iris,Iridaceae,Perennial,N/A
+271,Iris albicans,"white cemetery iris, white flag iris",Iris,Iridaceae,Perennial,"white cemetery iris, white flag iris"
+272,Iris alexeenkoi,N/A,Iris,Iridaceae,Perennial,N/A
+273,Iris aphylla,"stool iris, table iris, leafless iris (including I. nudicaulis)
+Iris aphylla subsp. hungarica (Waldst. & Kit.) Helgi",Iris,Iridaceae,Perennial,"stool iris, table iris, leafless iris (including I. nudicaulis)
+Iris aphylla subsp. hungarica (Waldst. & Kit.) Helgi"
+274,Iris attica,N/A,Iris,Iridaceae,Perennial,N/A
+275,Iris benacensis,N/A,Iris,Iridaceae,Perennial,N/A
+276,Iris bicapitata,N/A,Iris,Iridaceae,Perennial,N/A
+277,Iris croatica,Perunika I.Horvat & M.D.Horvat,Iris,Iridaceae,Perennial,Perunika I.Horvat & M.D.Horvat
+278,Iris cypriana,N/A,Iris,Iridaceae,Perennial,N/A
+279,Iris flavescens,lemonyellow iris (= I. variegata?),Iris,Iridaceae,Perennial,lemonyellow iris (= I. variegata?)
+280,Iris furcata,forked iris,Iris,Iridaceae,Perennial,forked iris
+281,Iris × germanica,N/A,Iris,Iridaceae,Perennial,N/A
+282,Iris glaucescens,N/A,Iris,Iridaceae,Perennial,N/A
+283,Iris griffithii,N/A,Iris,Iridaceae,Perennial,N/A
+284,Iris hellenica,N/A,Iris,Iridaceae,Perennial,N/A
+285,Iris imbricata,N/A,Iris,Iridaceae,Perennial,N/A
+286,Iris junonia,N/A,Iris,Iridaceae,Perennial,N/A
+287,Iris kashmiriana,N/A,Iris,Iridaceae,Perennial,N/A
+288,Iris lutescens,N/A,Iris,Iridaceae,Perennial,N/A
+289,Iris marsica,N/A,Iris,Iridaceae,Perennial,N/A
+290,Iris mesopotamica,Mesopotamian iris,Iris,Iridaceae,Perennial,Mesopotamian iris
+291,Iris orjenii,Orjen iris Bräuchler & Cikovac,Iris,Iridaceae,Perennial,Orjen iris Bräuchler & Cikovac
+292,Iris pallida,"sweet iris, Dalmatian iris Lam.
+Iris pallida subsp. cengialti (Ambrosi ex A.Kern.) Foster
+Iris pallida subsp. illyrica (Iris illyrica) (Tomm. ex Vis.) K.Richt.",Iris,Iridaceae,Perennial,"sweet iris, Dalmatian iris Lam.
+Iris pallida subsp. cengialti (Ambrosi ex A.Kern.) Foster
+Iris pallida subsp. illyrica (Iris illyrica) (Tomm. ex Vis.) K.Richt."
+293,Iris perrieri,N/A,Iris,Iridaceae,Perennial,N/A
+294,Iris pseudopumila,N/A,Iris,Iridaceae,Perennial,N/A
+295,Iris pumila,N/A,Iris,Iridaceae,Perennial,N/A
+296,Iris purpureobractea,N/A,Iris,Iridaceae,Perennial,N/A
+297,Iris relicta,N/A,Iris,Iridaceae,Perennial,N/A
+298,Iris reichenbachii,Reichenbach's iris,Iris,Iridaceae,Perennial,Reichenbach's iris
+299,Iris revoluta,N/A,Iris,Iridaceae,Perennial,N/A
+300,Iris sambucina,N/A,Iris,Iridaceae,Perennial,N/A
+301,Iris scariosa,N/A,Iris,Iridaceae,Perennial,N/A
+302,Iris schachtii,N/A,Iris,Iridaceae,Perennial,N/A
+303,Iris setina,N/A,Iris,Iridaceae,Perennial,N/A
+304,Iris suaveolens,N/A,Iris,Iridaceae,Perennial,N/A
+305,Iris subbiflora,N/A,Iris,Iridaceae,Perennial,N/A
+306,Iris taochia,N/A,Iris,Iridaceae,Perennial,N/A
+307,Iris timofejewii,N/A,Iris,Iridaceae,Perennial,N/A
+308,Iris variegata,Hungarian iris,Iris,Iridaceae,Perennial,Hungarian iris
+309,Iris acutiloba,N/A,Iris,Iridaceae,Perennial,N/A
+310,Iris antilibanotica,N/A,Iris,Iridaceae,Perennial,N/A
+311,Iris assadiana,N/A,Iris,Iridaceae,Perennial,N/A
+312,Iris atrofusca,N/A,Iris,Iridaceae,Perennial,N/A
+313,Iris atropurpurea,N/A,Iris,Iridaceae,Perennial,N/A
+314,Iris auranitica,N/A,Iris,Iridaceae,Perennial,N/A
+315,Iris barnumiae,N/A,Iris,Iridaceae,Perennial,N/A
+316,Iris basaltica,N/A,Iris,Iridaceae,Perennial,N/A
+317,Iris bismarckiana,Nazareth Iris,Iris,Iridaceae,Perennial,Nazareth Iris
+318,Iris bostrensis,N/A,Iris,Iridaceae,Perennial,N/A
+319,Iris camillae,N/A,Iris,Iridaceae,Perennial,N/A
+320,Iris cedreti,N/A,Iris,Iridaceae,Perennial,N/A
+321,Iris damascena,N/A,Iris,Iridaceae,Perennial,N/A
+322,Iris gatesii,N/A,Iris,Iridaceae,Perennial,N/A
+323,Iris grossheimii,N/A,Iris,Iridaceae,Perennial,N/A
+324,Iris haynei,Gilboa Iris,Iris,Iridaceae,Perennial,Gilboa Iris
+325,Iris hermona,Hermon Iris,Iris,Iridaceae,Perennial,Hermon Iris
+326,Iris heylandiana,N/A,Iris,Iridaceae,Perennial,N/A
+327,Iris iberica,N/A,Iris,Iridaceae,Perennial,N/A
+328,Iris iberica subsp. elegantissima,N/A,Iris,Iridaceae,Perennial,N/A
+329,Iris iberica subsp. lycotis,N/A,Iris,Iridaceae,Perennial,N/A
+330,Iris kirkwoodii,N/A,Iris,Iridaceae,Perennial,N/A
+331,Iris lortetii,N/A,Iris,Iridaceae,Perennial,N/A
+332,Iris lortetii var. samariae,N/A,Iris,Iridaceae,Perennial,N/A
+333,Iris mariae,N/A,Iris,Iridaceae,Perennial,N/A
+334,Iris meda,N/A,Iris,Iridaceae,Perennial,N/A
+335,Iris nigricans,N/A,Iris,Iridaceae,Perennial,N/A
+336,Iris nectarifera,N/A,Iris,Iridaceae,Perennial,N/A
+337,Iris paradoxa,N/A,Iris,Iridaceae,Perennial,N/A
+338,Iris petrana,N/A,Iris,Iridaceae,Perennial,N/A
+339,Iris sari,N/A,Iris,Iridaceae,Perennial,N/A
+340,Iris schelkownikowii,N/A,Iris,Iridaceae,Perennial,N/A
+341,Iris sprengeri,N/A,Iris,Iridaceae,Perennial,N/A
+342,Iris susiana,Mourning Iris,Iris,Iridaceae,Perennial,Mourning Iris
+343,Iris swensoniana,N/A,Iris,Iridaceae,Perennial,N/A
+344,Iris westii,N/A,Iris,Iridaceae,Perennial,N/A
+345,Iris yebrudii,N/A,Iris,Iridaceae,Perennial,N/A
+346,Iris falcifolia,N/A,Iris,Iridaceae,Perennial,N/A
+347,Iris longiscapa,N/A,Iris,Iridaceae,Perennial,N/A
+348,Iris arenaria,N/A,Iris,Iridaceae,Perennial,N/A
+349,Iris bloudowii,N/A,Iris,Iridaceae,Perennial,N/A
+350,Iris curvifolia,N/A,Iris,Iridaceae,Perennial,N/A
+351,Iris humilis,N/A,Iris,Iridaceae,Perennial,N/A
+352,Iris kamelinii,N/A,Iris,Iridaceae,Perennial,N/A
+353,Iris mandshurica,N/A,Iris,Iridaceae,Perennial,N/A
+354,Iris potaninii,N/A,Iris,Iridaceae,Perennial,N/A
+355,Iris vorobievii,N/A,Iris,Iridaceae,Perennial,N/A
+356,Iris cuniculiformis,N/A,Iris,Iridaceae,Perennial,N/A
+357,Iris dolichosiphon,N/A,Iris,Iridaceae,Perennial,N/A
+358,Iris goniocarpa,N/A,Iris,Iridaceae,Perennial,N/A
+359,Iris hookeriana,N/A,Iris,Iridaceae,Perennial,N/A
+360,Iris ivanovae,N/A,Iris,Iridaceae,Perennial,N/A
+361,Iris kemaonensis,N/A,Iris,Iridaceae,Perennial,N/A
+362,Iris leptophylla,N/A,Iris,Iridaceae,Perennial,N/A
+363,Iris narcissiflora,N/A,Iris,Iridaceae,Perennial,N/A
+364,Iris sikkimensis,N/A,Iris,Iridaceae,Perennial,N/A
+365,Iris tigridia,N/A,Iris,Iridaceae,Perennial,N/A
+366,Iris afghanica,N/A,Iris,Iridaceae,Perennial,N/A
+367,Iris darwasica,N/A,Iris,Iridaceae,Perennial,N/A
+368,Iris heweri,N/A,Iris,Iridaceae,Perennial,N/A
+369,Iris hoogiana,N/A,Iris,Iridaceae,Perennial,N/A
+370,Iris korolkowii,N/A,Iris,Iridaceae,Perennial,N/A
+371,Iris kuschkensis,N/A,Iris,Iridaceae,Perennial,N/A
+372,Iris lineata,N/A,Iris,Iridaceae,Perennial,N/A
+373,Iris stolonifera,N/A,Iris,Iridaceae,Perennial,N/A
+374,Iris bracteata,Siskiyou Iris,Iris,Iridaceae,Perennial,Siskiyou Iris
+375,Iris chrysophylla,Yellow-leaved Iris,Iris,Iridaceae,Perennial,Yellow-leaved Iris
+376,Iris douglasiana,Douglas Iris,Iris,Iridaceae,Perennial,Douglas Iris
+377,Iris fernaldii,Fernald's Iris,Iris,Iridaceae,Perennial,Fernald's Iris
+378,Iris hartwegii,"Hartweg's Iris, Rainbow Iris, Sierra Iris",Iris,Iridaceae,Perennial,"Hartweg's Iris, Rainbow Iris, Sierra Iris"
+379,Iris innominata,Del Norte Iris,Iris,Iridaceae,Perennial,Del Norte Iris
+380,Iris macrosiphon,Bowltube Iris,Iris,Iridaceae,Perennial,Bowltube Iris
+381,Iris munzii,"Munz's Iris, Tulare Lavender Iris",Iris,Iridaceae,Perennial,"Munz's Iris, Tulare Lavender Iris"
+382,Iris purdyi,Purdy's Iris,Iris,Iridaceae,Perennial,Purdy's Iris
+383,Iris tenax,"Tough-leaved Iris, Oregon Iris",Iris,Iridaceae,Perennial,"Tough-leaved Iris, Oregon Iris"
+384,Iris tenuissima,(Long-tubed Iris),Iris,Iridaceae,Perennial,(Long-tubed Iris)
+385,Iris henryi,N/A,Iris,Iridaceae,Perennial,N/A
+386,Iris koreana,N/A,Iris,Iridaceae,Perennial,N/A
+387,Iris minutoaurea,N/A,Iris,Iridaceae,Perennial,N/A
+388,Iris odaesanensis,N/A,Iris,Iridaceae,Perennial,N/A
+389,Iris proantha,N/A,Iris,Iridaceae,Perennial,N/A
+390,Iris rossii,N/A,Iris,Iridaceae,Perennial,N/A
+391,Iris speculatrix,N/A,Iris,Iridaceae,Perennial,N/A
+392,Iris lactea,N/A,Iris,Iridaceae,Perennial,N/A
+393,Iris foetidissima,"Stinking Iris, Gladwin Iris, Stinking Gladwin, Gladdon, Roast-beef Plant",Iris,Iridaceae,Perennial,"Stinking Iris, Gladwin Iris, Stinking Gladwin, Gladdon, Roast-beef Plant"
+394,Iris brevicaulis,Zigzag Iris,Iris,Iridaceae,Perennial,Zigzag Iris
+395,Iris fulva,Copper Iris,Iris,Iridaceae,Perennial,Copper Iris
+396,Iris giganticaerulea,"Giant Blue Iris, Giant Blue Flag",Iris,Iridaceae,Perennial,"Giant Blue Iris, Giant Blue Flag"
+397,Iris hexagona,Dixie Iris,Iris,Iridaceae,Perennial,Dixie Iris
+398,Iris nelsonii,(Abbeville Iris),Iris,Iridaceae,Perennial,(Abbeville Iris)
+399,Iris savannarum,Prairie iris,Iris,Iridaceae,Perennial,Prairie iris
+400,Iris ensata,"Japanese Iris, hanashōbu (Japanese) (including I. kaempferi)",Iris,Iridaceae,Perennial,"Japanese Iris, hanashōbu (Japanese) (including I. kaempferi)"
+401,Iris laevigata,"Rabbitear Iris, Shallow-flowered Iris, kakitsubata (Japanese)",Iris,Iridaceae,Perennial,"Rabbitear Iris, Shallow-flowered Iris, kakitsubata (Japanese)"
+402,Iris maackii,N/A,Iris,Iridaceae,Perennial,N/A
+403,Iris pseudacorus,"Yellow Iris, Yellow Flag",Iris,Iridaceae,Perennial,"Yellow Iris, Yellow Flag"
+404,Iris versicolor,"Larger Blue Flag, Harlequin Blueflag",Iris,Iridaceae,Perennial,"Larger Blue Flag, Harlequin Blueflag"
+405,Iris virginica,Virginia Iris,Iris,Iridaceae,Perennial,Virginia Iris
+406,Iris longipetala,(Coast Iris),Iris,Iridaceae,Perennial,(Coast Iris)
+407,Iris missouriensis,"Rocky Mountain Iris, Western Blue Flag",Iris,Iridaceae,Perennial,"Rocky Mountain Iris, Western Blue Flag"
+408,Iris prismatica,(Slender Blue Flag),Iris,Iridaceae,Perennial,(Slender Blue Flag)
+409,Iris ruthenica,N/A,Iris,Iridaceae,Perennial,N/A
+410,Iris uniflora,N/A,Iris,Iridaceae,Perennial,N/A
+411,Iris bulleyana,N/A,Iris,Iridaceae,Perennial,N/A
+412,Iris chrysographes,Black Iris,Iris,Iridaceae,Perennial,Black Iris
+413,Iris clarkei,N/A,Iris,Iridaceae,Perennial,N/A
+414,Iris delavayi,N/A,Iris,Iridaceae,Perennial,N/A
+415,Iris forrestii,N/A,Iris,Iridaceae,Perennial,N/A
+416,Iris sanguinea,"Blood Iris, ayame (Japanese)",Iris,Iridaceae,Perennial,"Blood Iris, ayame (Japanese)"
+417,Iris sibirica,Siberian Iris,Iris,Iridaceae,Perennial,Siberian Iris
+418,Iris typhifolia,N/A,Iris,Iridaceae,Perennial,N/A
+419,Iris wilsonii,N/A,Iris,Iridaceae,Perennial,N/A
+420,Iris brandzae,N/A,Iris,Iridaceae,Perennial,N/A
+421,Iris crocea,N/A,Iris,Iridaceae,Perennial,N/A
+422,Iris graminea,N/A,Iris,Iridaceae,Perennial,N/A
+423,Iris halophila,N/A,Iris,Iridaceae,Perennial,N/A
+424,Iris halophila var. sogdiana,N/A,Iris,Iridaceae,Perennial,N/A
+425,Iris kerneriana,N/A,Iris,Iridaceae,Perennial,N/A
+426,Iris ludwigii,N/A,Iris,Iridaceae,Perennial,N/A
+427,Iris notha,N/A,Iris,Iridaceae,Perennial,N/A
+428,Iris orientalis,(Yellow-banded Iris),Iris,Iridaceae,Perennial,(Yellow-banded Iris)
+429,Iris pontica,N/A,Iris,Iridaceae,Perennial,N/A
+430,Iris pseudonotha,N/A,Iris,Iridaceae,Perennial,N/A
+431,Iris sintenisii,N/A,Iris,Iridaceae,Perennial,N/A
+432,Iris spuria,"Blue Iris
+Iris spuria subsp. carthaliniae (Fomin) B.Mathew 
+Iris spuria subsp. demetrii  (Achv. & Mirzoeva) B.Mathew 
+Iris spuria subsp. maritima (Dykes) P.Fourn. 
+Iris spuria subsp. musulmanica  (Fomin) Takht.",Iris,Iridaceae,Perennial,"Blue Iris
+Iris spuria subsp. carthaliniae (Fomin) B.Mathew 
+Iris spuria subsp. demetrii  (Achv. & Mirzoeva) B.Mathew 
+Iris spuria subsp. maritima (Dykes) P.Fourn. 
+Iris spuria subsp. musulmanica  (Fomin) Takht."
+433,Iris spuria subsp. carthaliniae,N/A,Iris,Iridaceae,Perennial,N/A
+434,Iris spuria subsp. demetrii,N/A,Iris,Iridaceae,Perennial,N/A
+435,Iris spuria subsp. maritima,N/A,Iris,Iridaceae,Perennial,N/A
+436,Iris spuria subsp. musulmanica,N/A,Iris,Iridaceae,Perennial,N/A
+437,Iris xanthospuria,N/A,Iris,Iridaceae,Perennial,N/A
+438,Iris grant-duffii,N/A,Iris,Iridaceae,Perennial,N/A
+439,Iris masia,N/A,Iris,Iridaceae,Perennial,N/A
+440,Iris anguifuga,N/A,Iris,Iridaceae,Perennial,N/A
+441,Iris bungei,N/A,Iris,Iridaceae,Perennial,N/A
+442,Iris cathayensis,N/A,Iris,Iridaceae,Perennial,N/A
+443,Iris farreri,N/A,Iris,Iridaceae,Perennial,N/A
+444,Iris kobayashii,N/A,Iris,Iridaceae,Perennial,N/A
+445,Iris loczyi,N/A,Iris,Iridaceae,Perennial,N/A
+446,Iris qinghainica,N/A,Iris,Iridaceae,Perennial,N/A
+447,Iris songarica,N/A,Iris,Iridaceae,Perennial,N/A
+448,Iris tenuifolia,N/A,Iris,Iridaceae,Perennial,N/A
+449,Iris ventricosa,N/A,Iris,Iridaceae,Perennial,N/A
+450,Iris hookeri,Hooker's Iris,Iris,Iridaceae,Perennial,Hooker's Iris
+451,Iris setosa,(Beachhead Iris),Iris,Iridaceae,Perennial,(Beachhead Iris)
+452,Iris tridentata,Savanna Iris,Iris,Iridaceae,Perennial,Savanna Iris
+453,Iris lazica,N/A,Iris,Iridaceae,Perennial,N/A
+454,Iris unguicularis,N/A,Iris,Iridaceae,Perennial,N/A
+455,Iris verna,Dwarf Violet Iris,Iris,Iridaceae,Perennial,Dwarf Violet Iris
+456,Iris confusa,Bamboo Iris,Iris,Iridaceae,Perennial,Bamboo Iris
+457,Iris cristata,Crested Iris,Iris,Iridaceae,Perennial,Crested Iris
+458,Iris formosana,N/A,Iris,Iridaceae,Perennial,N/A
+459,Iris gracilipes,N/A,Iris,Iridaceae,Perennial,N/A
+460,Iris japonica,N/A,Iris,Iridaceae,Perennial,N/A
+461,Iris lacustris,Dwarf Lake Iris,Iris,Iridaceae,Perennial,Dwarf Lake Iris
+462,Iris latistyla,N/A,Iris,Iridaceae,Perennial,N/A
+463,Iris milesii,N/A,Iris,Iridaceae,Perennial,N/A
+464,Iris subdichotoma,N/A,Iris,Iridaceae,Perennial,N/A
+465,Iris tectorum,(Wall Iris),Iris,Iridaceae,Perennial,(Wall Iris)
+466,Iris tenuis,(Clackamas Iris),Iris,Iridaceae,Perennial,(Clackamas Iris)
+467,Iris wattii,N/A,Iris,Iridaceae,Perennial,N/A
+468,Iris thompsonii,(Thompson's Iris) (formerly in I. innominata),Iris,Iridaceae,Perennial,(Thompson's Iris) (formerly in I. innominata)
+469,Iris × robusta,(Robust Iris) (I. versicolor × I. Virginica),Iris,Iridaceae,Perennial,(Robust Iris) (I. versicolor × I. Virginica)
+470,Iris × sancti-cyri,(Saint-Cyr iris) (I. hookeri × I. versicolor),Iris,Iridaceae,Perennial,(Saint-Cyr iris) (I. hookeri × I. versicolor)
+471,Iris boissieri,N/A,Iris,Iridaceae,Perennial,N/A
+472,Iris filifolia,N/A,Iris,Iridaceae,Perennial,N/A
+473,Iris juncea,N/A,Iris,Iridaceae,Perennial,N/A
+474,Iris latifolia,English Iris,Iris,Iridaceae,Perennial,English Iris
+475,Iris lusitanica,N/A,Iris,Iridaceae,Perennial,N/A
+476,Iris rutherfordii,N/A,Iris,Iridaceae,Perennial,N/A
+477,Iris serotina,N/A,Iris,Iridaceae,Perennial,N/A
+478,Iris tingitana,(Morocco Iris),Iris,Iridaceae,Perennial,(Morocco Iris)
+479,Iris xiphium,"Spanish Iris, Dutch Iris, Small Bulbous-rooted Iris",Iris,Iridaceae,Perennial,"Spanish Iris, Dutch Iris, Small Bulbous-rooted Iris"
+480,Iris collettii,N/A,Iris,Iridaceae,Perennial,N/A
+481,Iris decora,N/A,Iris,Iridaceae,Perennial,N/A
+482,Iris staintonii,N/A,Iris,Iridaceae,Perennial,N/A
+483,Iris barbatula,N/A,Iris,Iridaceae,Perennial,N/A
+484,Iris albomarginata,N/A,Iris,Iridaceae,Perennial,N/A
+485,Iris aucheri,N/A,Iris,Iridaceae,Perennial,N/A
+486,Iris bucharica,N/A,Iris,Iridaceae,Perennial,N/A
+487,Iris caucasica,N/A,Iris,Iridaceae,Perennial,N/A
+488,Iris cycloglossa,N/A,Iris,Iridaceae,Perennial,N/A
+489,Iris drepanophylla,N/A,Iris,Iridaceae,Perennial,N/A
+490,Iris fosteriana,N/A,Iris,Iridaceae,Perennial,N/A
+491,Iris graeberiana,N/A,Iris,Iridaceae,Perennial,N/A
+492,Iris kuschakewiczii,N/A,Iris,Iridaceae,Perennial,N/A
+493,Iris magnifica,N/A,Iris,Iridaceae,Perennial,N/A
+494,Iris maracandica,N/A,Iris,Iridaceae,Perennial,N/A
+495,Iris narynensis,N/A,Iris,Iridaceae,Perennial,N/A
+496,Iris narbutii,N/A,Iris,Iridaceae,Perennial,N/A
+497,Iris orchioides,N/A,Iris,Iridaceae,Perennial,N/A
+498,Iris palaestina,N/A,Iris,Iridaceae,Perennial,N/A
+499,Iris persica,N/A,Iris,Iridaceae,Perennial,N/A
+500,Iris planifolia,N/A,Iris,Iridaceae,Perennial,N/A
+501,Iris postii,N/A,Iris,Iridaceae,Perennial,N/A
+502,Iris pseudocaucasica,N/A,Iris,Iridaceae,Perennial,N/A
+503,Iris regis-uzziae,N/A,Iris,Iridaceae,Perennial,N/A
+504,Iris rosenbachiana,N/A,Iris,Iridaceae,Perennial,N/A
+505,Iris stenophylla,N/A,Iris,Iridaceae,Perennial,N/A
+506,Iris tubergeniana,N/A,Iris,Iridaceae,Perennial,N/A
+507,Iris vicaria,N/A,Iris,Iridaceae,Perennial,N/A
+508,Iris warleyensis,N/A,Iris,Iridaceae,Perennial,N/A
+509,Iris willmottiana,N/A,Iris,Iridaceae,Perennial,N/A
+510,Iris zaprjagajevii,N/A,Iris,Iridaceae,Perennial,N/A
+511,Iris zenaidae,N/A,Iris,Iridaceae,Perennial,N/A
+512,Iris danfordiae,N/A,Iris,Iridaceae,Perennial,N/A
+513,Iris histrio,N/A,Iris,Iridaceae,Perennial,N/A
+514,Iris histrioides,N/A,Iris,Iridaceae,Perennial,N/A
+515,Iris hyrcana,N/A,Iris,Iridaceae,Perennial,N/A
+516,Iris kolpakowskiana,N/A,Iris,Iridaceae,Perennial,N/A
+517,Iris pamphylica,N/A,Iris,Iridaceae,Perennial,N/A
+518,Iris pskemensis,N/A,Iris,Iridaceae,Perennial,N/A
+519,Iris reticulata,N/A,Iris,Iridaceae,Perennial,N/A
+520,Iris tuberosa,N/A,Iris,Iridaceae,Perennial,N/A
+521,Iris vartanii,N/A,Iris,Iridaceae,Perennial,N/A
+522,Iris winkleri,N/A,Iris,Iridaceae,Perennial,N/A
+523,Iris winogradowii,N/A,Iris,Iridaceae,Perennial,N/A
+524,Iris dichotoma,N/A,Iris,Iridaceae,Perennial,N/A
+525,Iris domestica,N/A,Iris,Iridaceae,Perennial,N/A
+526,Irises,N/A,Iris,Iridaceae,Perennial,N/A
+527,Eucalyptus abdita,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+528,Eucalyptus absita,Badgingarra box,Eucalyptus,Myrtaceae,Tree,Badgingarra box
+529,Eucalyptus acaciiformis,wattle-leaved peppermint,Eucalyptus,Myrtaceae,Tree,wattle-leaved peppermint
+530,Eucalyptus accedens,powderbark wandoo,Eucalyptus,Myrtaceae,Tree,powderbark wandoo
+531,Eucalyptus acies,Woolburnup mallee,Eucalyptus,Myrtaceae,Tree,Woolburnup mallee
+532,Eucalyptus acmenoides,white mahogany,Eucalyptus,Myrtaceae,Tree,white mahogany
+533,Eucalyptus acroleuca,Lakefield coolibah,Eucalyptus,Myrtaceae,Tree,Lakefield coolibah
+534,Eucalyptus adesmophloia,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+535,Eucalyptus aequioperta,Welcome Hill gum,Eucalyptus,Myrtaceae,Tree,Welcome Hill gum
+536,Eucalyptus agglomerata,blue-leaved stringybark,Eucalyptus,Myrtaceae,Tree,blue-leaved stringybark
+537,Eucalyptus aggregata,black gum,Eucalyptus,Myrtaceae,Tree,black gum
+538,Eucalyptus alaticaulis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+539,Eucalyptus alatissima,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+540,Eucalyptus alba,"poplar gum
+Eucalyptus alba var. australasica Blakely & Jacobs",Eucalyptus,Myrtaceae,Tree,"poplar gum
+Eucalyptus alba var. australasica Blakely & Jacobs"
+541,Eucalyptus albens,white box,Eucalyptus,Myrtaceae,Tree,white box
+542,Eucalyptus albida,white-leaved mallee,Eucalyptus,Myrtaceae,Tree,white-leaved mallee
+543,Eucalyptus albopurpurea,purple-flowered mallee,Eucalyptus,Myrtaceae,Tree,purple-flowered mallee
+544,Eucalyptus alipes,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+545,Eucalyptus alligatrix,"Lima stringybark
+Eucalyptus alligatrix subsp. miscella Brooker, Slee & J.D.Briggs,",Eucalyptus,Myrtaceae,Tree,"Lima stringybark
+Eucalyptus alligatrix subsp. miscella Brooker, Slee & J.D.Briggs,"
+546,Eucalyptus × alpina,Grampians gum,Eucalyptus,Myrtaceae,Tree,Grampians gum
+547,Eucalyptus ammophila,sandplain red gum,Eucalyptus,Myrtaceae,Tree,sandplain red gum
+548,Eucalyptus amplifolia,"cabbage gum
+Eucalyptus amplifolia subsp. amplifolia
+Eucalyptus amplifolia subsp. sessiliflora  (Blakely) L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"cabbage gum
+Eucalyptus amplifolia subsp. amplifolia
+Eucalyptus amplifolia subsp. sessiliflora  (Blakely) L.A.S.Johnson & K.D.Hill"
+549,Eucalyptus amygdalina,black peppermint,Eucalyptus,Myrtaceae,Tree,black peppermint
+550,Eucalyptus ancophila,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+551,Eucalyptus andrewsii,New England blackbutt,Eucalyptus,Myrtaceae,Tree,New England blackbutt
+552,Eucalyptus angophoroides,apple-topped box,Eucalyptus,Myrtaceae,Tree,apple-topped box
+553,Eucalyptus angularis,Lesueur phantom mallee,Eucalyptus,Myrtaceae,Tree,Lesueur phantom mallee
+554,Eucalyptus angulosa,ridge fruited mallee,Eucalyptus,Myrtaceae,Tree,ridge fruited mallee
+555,Eucalyptus angustissima,narrow-leaved mallee,Eucalyptus,Myrtaceae,Tree,narrow-leaved mallee
+556,Eucalyptus annettae,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+557,Eucalyptus annulata,open-fruited mallee,Eucalyptus,Myrtaceae,Tree,open-fruited mallee
+558,Eucalyptus annuliformis,Badgerabbie mallee,Eucalyptus,Myrtaceae,Tree,Badgerabbie mallee
+559,Eucalyptus apiculata,narrow-leaved mallee ash,Eucalyptus,Myrtaceae,Tree,narrow-leaved mallee ash
+560,Eucalyptus apodophylla,whitebark,Eucalyptus,Myrtaceae,Tree,whitebark
+561,Eucalyptus apothalassica,inland white mahogany,Eucalyptus,Myrtaceae,Tree,inland white mahogany
+562,Eucalyptus approximans,Barren Mountain mallee,Eucalyptus,Myrtaceae,Tree,Barren Mountain mallee
+563,Eucalyptus aquatica,mountain swamp gum,Eucalyptus,Myrtaceae,Tree,mountain swamp gum
+564,Eucalyptus aquilina,Mount Le Grand mallee,Eucalyptus,Myrtaceae,Tree,Mount Le Grand mallee
+565,Eucalyptus arachnaea,"black-stemmed mallee
+Eucalyptus arachnaea subsp. arachnaea
+Eucalyptus arachnaea subsp. arrecta  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"black-stemmed mallee
+Eucalyptus arachnaea subsp. arachnaea
+Eucalyptus arachnaea subsp. arrecta  Brooker & Hopper"
+566,Eucalyptus arborella,Twertup mallet,Eucalyptus,Myrtaceae,Tree,Twertup mallet
+567,Eucalyptus arcana,mallee manna gum,Eucalyptus,Myrtaceae,Tree,mallee manna gum
+568,Eucalyptus archeri,alpine cider gum,Eucalyptus,Myrtaceae,Tree,alpine cider gum
+569,Eucalyptus arenacea,desert stringybark,Eucalyptus,Myrtaceae,Tree,desert stringybark
+570,Eucalyptus arenicola,Holey Plains peppermint,Eucalyptus,Myrtaceae,Tree,Holey Plains peppermint
+571,Eucalyptus argillacea,Mount House box,Eucalyptus,Myrtaceae,Tree,Mount House box
+572,Eucalyptus argophloia,Queensland white gum,Eucalyptus,Myrtaceae,Tree,Queensland white gum
+573,Eucalyptus argutifolia,Wabling Hill mallee,Eucalyptus,Myrtaceae,Tree,Wabling Hill mallee
+574,Eucalyptus aridimontana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+575,Eucalyptus armillata,red-flowered mallee,Eucalyptus,Myrtaceae,Tree,red-flowered mallee
+576,Eucalyptus aromaphloia,Creswick apple-box,Eucalyptus,Myrtaceae,Tree,Creswick apple-box
+577,Eucalyptus articulata,Ponton Creek mallee,Eucalyptus,Myrtaceae,Tree,Ponton Creek mallee
+578,Eucalyptus aspersa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+579,Eucalyptus aspratilis,soak yate,Eucalyptus,Myrtaceae,Tree,soak yate
+580,Eucalyptus assimilans,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+581,Eucalyptus astringens,"brown mallet
+Eucalyptus astringens subsp. astringens
+Eucalyptus astringens subsp. redacta  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"brown mallet
+Eucalyptus astringens subsp. astringens
+Eucalyptus astringens subsp. redacta  Brooker & Hopper"
+582,Eucalyptus atrata,Herberton ironbark,Eucalyptus,Myrtaceae,Tree,Herberton ironbark
+583,Eucalyptus aurifodina,small-leaved brown stringybark,Eucalyptus,Myrtaceae,Tree,small-leaved brown stringybark
+584,Eucalyptus badjensis,Big Badja gum,Eucalyptus,Myrtaceae,Tree,Big Badja gum
+585,Eucalyptus baeuerlenii,Baeuerlen's gum,Eucalyptus,Myrtaceae,Tree,Baeuerlen's gum
+586,Eucalyptus baileyana,Bailey's stringybark,Eucalyptus,Myrtaceae,Tree,Bailey's stringybark
+587,Eucalyptus baiophylla,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+588,Eucalyptus bakeri,Baker's mallee,Eucalyptus,Myrtaceae,Tree,Baker's mallee
+589,Eucalyptus × balanites,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+590,Eucalyptus × balanopelex,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+591,Eucalyptus balladoniensis,"Balladonia mallee
+Eucalyptus balladoniensis subsp. balladoniensis
+Eucalyptus balladoniensis subsp. sedens  L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Balladonia mallee
+Eucalyptus balladoniensis subsp. balladoniensis
+Eucalyptus balladoniensis subsp. sedens  L.A.S.Johnson & K.D.Hill"
+592,Eucalyptus bancroftii,orange gum,Eucalyptus,Myrtaceae,Tree,orange gum
+593,Eucalyptus banksii,Tenterfield woollybutt,Eucalyptus,Myrtaceae,Tree,Tenterfield woollybutt
+594,Eucalyptus barberi,Barber's gum,Eucalyptus,Myrtaceae,Tree,Barber's gum
+595,Eucalyptus baudiniana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+596,Eucalyptus baueriana,"blue box
+Eucalyptus baueriana subsp. baueriana
+Eucalyptus baueriana subsp. deddickensis  Rule
+Eucalyptus baueriana subsp. thalassina  Rule",Eucalyptus,Myrtaceae,Tree,Werribee blue box
+597,Eucalyptus baxteri,brown stringybark,Eucalyptus,Myrtaceae,Tree,brown stringybark
+598,Eucalyptus beaniana,Bean's ironbark,Eucalyptus,Myrtaceae,Tree,Bean's ironbark
+599,Eucalyptus beardiana,Beard's mallee,Eucalyptus,Myrtaceae,Tree,Beard's mallee
+600,Eucalyptus behriana,bull mallee,Eucalyptus,Myrtaceae,Tree,bull mallee
+601,Eucalyptus bensonii,Benson's stringybark,Eucalyptus,Myrtaceae,Tree,Benson's stringybark
+602,Eucalyptus benthamii,Camden white gum,Eucalyptus,Myrtaceae,Tree,Camden white gum
+603,Eucalyptus × beyeri,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+604,Eucalyptus beyeriana,Beyer's ironbark,Eucalyptus,Myrtaceae,Tree,Beyer's ironbark
+605,Eucalyptus bigalerita,northern salmon gum,Eucalyptus,Myrtaceae,Tree,northern salmon gum
+606,Eucalyptus blakelyi,Blakely's redgum,Eucalyptus,Myrtaceae,Tree,Blakely's redgum
+607,Eucalyptus blaxellii,Howatharra mallee,Eucalyptus,Myrtaceae,Tree,Howatharra mallee
+608,Eucalyptus blaxlandii,Blaxland's stringybark,Eucalyptus,Myrtaceae,Tree,Blaxland's stringybark
+609,Eucalyptus boliviana,Bolivia Hill stringybark,Eucalyptus,Myrtaceae,Tree,Bolivia Hill stringybark
+610,Eucalyptus bosistoana,"coast grey box, Gippsland grey box",Eucalyptus,Myrtaceae,Tree,"coast grey box, Gippsland grey box"
+611,Eucalyptus botryoides,southern mahogany,Eucalyptus,Myrtaceae,Tree,southern mahogany
+612,Eucalyptus brachyandra,tropical red box,Eucalyptus,Myrtaceae,Tree,tropical red box
+613,Eucalyptus brachycalyx,"gilja, Chindoo mallee",Eucalyptus,Myrtaceae,Tree,"gilja, Chindoo mallee"
+614,Eucalyptus × brachyphylla,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+615,Eucalyptus brandiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+616,Eucalyptus brassiana,"Cape York red gum, gum-topped peppermint",Eucalyptus,Myrtaceae,Tree,"Cape York red gum, gum-topped peppermint"
+617,Eucalyptus brevifolia,"northern white gum, snappy gum",Eucalyptus,Myrtaceae,Tree,"northern white gum, snappy gum"
+618,Eucalyptus brevipes,Mukinbudin mallee,Eucalyptus,Myrtaceae,Tree,Mukinbudin mallee
+619,Eucalyptus brevistylis,Rate's tingle,Eucalyptus,Myrtaceae,Tree,Rate's tingle
+620,Eucalyptus bridgesiana,"apple box, apple, apple gum",Eucalyptus,Myrtaceae,Tree,"apple box, apple, apple gum"
+621,Eucalyptus brockwayi,Dundas mahogany,Eucalyptus,Myrtaceae,Tree,Dundas mahogany
+622,Eucalyptus brookeriana,Brooker's gum,Eucalyptus,Myrtaceae,Tree,Brooker's gum
+623,Eucalyptus broviniensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+624,Eucalyptus brownii,"Brown's box, Reid River box",Eucalyptus,Myrtaceae,Tree,"Brown's box, Reid River box"
+625,Eucalyptus bunyip,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+626,Eucalyptus buprestium,"apple mallee, ball-fruited mallee",Eucalyptus,Myrtaceae,Tree,"apple mallee, ball-fruited mallee"
+627,Eucalyptus burdettiana,Burdett's mallee,Eucalyptus,Myrtaceae,Tree,Burdett's mallee
+628,Eucalyptus burgessiana,Faulconbridge mallee ash,Eucalyptus,Myrtaceae,Tree,Faulconbridge mallee ash
+629,Eucalyptus burracoppinensis,Burracoppin mallee,Eucalyptus,Myrtaceae,Tree,Burracoppin mallee
+630,Eucalyptus cadens,"tumble-down swamp gum, Warby Range swamp-gum",Eucalyptus,Myrtaceae,Tree,"tumble-down swamp gum, Warby Range swamp-gum"
+631,Eucalyptus caesia,caesia,Eucalyptus,Myrtaceae,Tree,caesia
+632,Eucalyptus cajuputea,narrow-leaved peppermint box,Eucalyptus,Myrtaceae,Tree,narrow-leaved peppermint box
+633,Eucalyptus calcareana,"Nundroo mallee, Nundroo gum",Eucalyptus,Myrtaceae,Tree,"Nundroo mallee, Nundroo gum"
+634,Eucalyptus calcicola,"Boranup mallee, Harry Butler's mallee or Hamelin Bay mallee
+Eucalyptus calcicola subsp. calcicola
+Eucalyptus calcicola subsp. unita  D.Nicolle",Eucalyptus,Myrtaceae,Tree,"Boranup mallee, Harry Butler's mallee or Hamelin Bay mallee
+Eucalyptus calcicola subsp. calcicola
+Eucalyptus calcicola subsp. unita  D.Nicolle"
+635,Eucalyptus caleyi,"Caley's ironbark
+Eucalyptus caleyi subsp. caleyi
+Eucalyptus caleyi subsp. ovendenii L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Caley's ironbark
+Eucalyptus caleyi subsp. caleyi
+Eucalyptus caleyi subsp. ovendenii L.A.S.Johnson & K.D.Hill"
+636,Eucalyptus caliginosa,"broad-leaved stringybark, New England stringybark",Eucalyptus,Myrtaceae,Tree,"broad-leaved stringybark, New England stringybark"
+637,Eucalyptus calycogona,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+638,Eucalyptus calyerup,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+639,Eucalyptus camaldulensis,"river red gum
+Eucalyptus camaldulensis subsp. acuta Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. arida Brooker & M.W.McDonald
+Eucalyptus camaldulensis Dehnh. subsp. camaldulensis
+Eucalyptus camaldulensis subsp. minima Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. obtusa (Blakely) Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. refulgens Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. simulata Brooker & Kleinig",Eucalyptus,Myrtaceae,Tree,"river red gum
+Eucalyptus camaldulensis subsp. acuta Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. arida Brooker & M.W.McDonald
+Eucalyptus camaldulensis Dehnh. subsp. camaldulensis
+Eucalyptus camaldulensis subsp. minima Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. obtusa (Blakely) Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. refulgens Brooker & M.W.McDonald
+Eucalyptus camaldulensis subsp. simulata Brooker & Kleinig"
+640,Eucalyptus cambageana,"Dawson River blackbutt, Coowarra box",Eucalyptus,Myrtaceae,Tree,"Dawson River blackbutt, Coowarra box"
+641,Eucalyptus cameronii,diehard stringybark,Eucalyptus,Myrtaceae,Tree,diehard stringybark
+642,Eucalyptus camfieldii,Camfield's stringybark,Eucalyptus,Myrtaceae,Tree,Camfield's stringybark
+643,Eucalyptus campanulata,New England blackbutt,Eucalyptus,Myrtaceae,Tree,New England blackbutt
+644,Eucalyptus campaspe,silver gimlet,Eucalyptus,Myrtaceae,Tree,silver gimlet
+645,Eucalyptus camphora,"swamp gum
+Eucalyptus camphora subsp. camphora
+Eucalyptus camphora subsp. humeana  L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"swamp gum
+Eucalyptus camphora subsp. camphora
+Eucalyptus camphora subsp. humeana  L.A.S.Johnson & K.D.Hill"
+646,Eucalyptus canaliculata,grey gum,Eucalyptus,Myrtaceae,Tree,grey gum
+647,Eucalyptus canescens,"Ooldea Range mallee
+Eucalyptus canescens subsp. beadellii  Nicolle
+Eucalyptus canescens subsp. canescens",Eucalyptus,Myrtaceae,Tree,"Ooldea Range mallee
+Eucalyptus canescens subsp. beadellii  Nicolle
+Eucalyptus canescens subsp. canescens"
+648,Eucalyptus canobolensis,Mount Canobolas candlebark,Eucalyptus,Myrtaceae,Tree,Mount Canobolas candlebark
+649,Eucalyptus capillosa,"wheatbelt wandoo, mallee wandoo
+Eucalyptus capillosa subsp. capillosa
+Eucalyptus capillosa subsp. polyclada  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"wheatbelt wandoo, mallee wandoo
+Eucalyptus capillosa subsp. capillosa
+Eucalyptus capillosa subsp. polyclada  Brooker & Hopper"
+650,Eucalyptus capitanea,desert ridge-fruited mallee,Eucalyptus,Myrtaceae,Tree,desert ridge-fruited mallee
+651,Eucalyptus capitellata,brown stringybark,Eucalyptus,Myrtaceae,Tree,brown stringybark
+652,Eucalyptus captiosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+653,Eucalyptus carnea,"thick leaved mahogany, broad-leaved mahogany",Eucalyptus,Myrtaceae,Tree,"thick leaved mahogany, broad-leaved mahogany"
+654,Eucalyptus carnei,Carne's blackbutt,Eucalyptus,Myrtaceae,Tree,Carne's blackbutt
+655,Eucalyptus carolaniae,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+656,Eucalyptus castrensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+657,Eucalyptus celastroides,"mirret
+Eucalyptus celastroides subsp. celastroides
+Eucalyptus celastroides subsp. virella  Brooker",Eucalyptus,Myrtaceae,Tree,"mirret
+Eucalyptus celastroides subsp. celastroides
+Eucalyptus celastroides subsp. virella  Brooker"
+658,Eucalyptus cephalocarpa,"mealy stringybark, silver stringybark",Eucalyptus,Myrtaceae,Tree,"mealy stringybark, silver stringybark"
+659,Eucalyptus ceracea,Seppelt Range gum,Eucalyptus,Myrtaceae,Tree,Seppelt Range gum
+660,Eucalyptus cerasiformis,cherry-fruited mallee,Eucalyptus,Myrtaceae,Tree,cherry-fruited mallee
+661,Eucalyptus ceratocorys,horn-capped mallee,Eucalyptus,Myrtaceae,Tree,horn-capped mallee
+662,Eucalyptus cernua,red-flowered or yellow-flowered mort,Eucalyptus,Myrtaceae,Tree,red-flowered or yellow-flowered mort
+663,Eucalyptus chapmaniana,Bogong gum,Eucalyptus,Myrtaceae,Tree,Bogong gum
+664,Eucalyptus chartaboma,paperbark gum,Eucalyptus,Myrtaceae,Tree,paperbark gum
+665,Eucalyptus chloroclada,"Baradine gum, red gum or dirty gum",Eucalyptus,Myrtaceae,Tree,"Baradine gum, red gum or dirty gum"
+666,Eucalyptus chlorophylla,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+667,Eucalyptus × chrysantha,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+668,Eucalyptus cinerea,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+669,Eucalyptus cladocalyx,"sugar gum
+Eucalyptus cladocalyx subsp. crassaD.Nicholle
+Eucalyptus cladocalyx subsp. petilaD.Nicholle",Eucalyptus,Myrtaceae,Tree,"sugar gum
+Eucalyptus cladocalyx subsp. crassaD.Nicholle
+Eucalyptus cladocalyx subsp. petilaD.Nicholle"
+670,Eucalyptus clelandiorum,Cleland's blackbutt,Eucalyptus,Myrtaceae,Tree,Cleland's blackbutt
+671,Eucalyptus clivicola,green mallet,Eucalyptus,Myrtaceae,Tree,green mallet
+672,Eucalyptus cloeziana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+673,Eucalyptus cneorifolia,Kangaroo Island narrow-leaf mallee,Eucalyptus,Myrtaceae,Tree,Kangaroo Island narrow-leaf mallee
+674,Eucalyptus coccifera,Tasmanian snow gum,Eucalyptus,Myrtaceae,Tree,Tasmanian snow gum
+675,Eucalyptus codonocarpa,"bell-fruited mallee ash, New England mallee ash",Eucalyptus,Myrtaceae,Tree,"bell-fruited mallee ash, New England mallee ash"
+676,Eucalyptus comitae-vallis,Comet Vale mallee,Eucalyptus,Myrtaceae,Tree,Comet Vale mallee
+677,Eucalyptus concinna,Victoria Desert Mallee,Eucalyptus,Myrtaceae,Tree,Victoria Desert Mallee
+678,Eucalyptus conferruminata,"Bald Island marlock, bushy yate
+Eucalyptus conferruminata subsp. conferruminata
+Eucalyptus conferruminata subsp. recherche  D.Nicolle & M.E.French",Eucalyptus,Myrtaceae,Tree,"Bald Island marlock, bushy yate
+Eucalyptus conferruminata subsp. conferruminata
+Eucalyptus conferruminata subsp. recherche  D.Nicolle & M.E.French"
+679,Eucalyptus conferta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+680,Eucalyptus confluens,Kimberley gum,Eucalyptus,Myrtaceae,Tree,Kimberley gum
+681,Eucalyptus conglobata,"cong mallee, Port Lincoln mallee
+Eucalyptus conglobata subsp. conglobata
+Eucalyptus conglobata subsp. perata  Brooker & Slee",Eucalyptus,Myrtaceae,Tree,"cong mallee, Port Lincoln mallee
+Eucalyptus conglobata subsp. conglobata
+Eucalyptus conglobata subsp. perata  Brooker & Slee"
+682,Eucalyptus conglomerata,swamp stringybark,Eucalyptus,Myrtaceae,Tree,swamp stringybark
+683,Eucalyptus conica,fuzzy box,Eucalyptus,Myrtaceae,Tree,fuzzy box
+684,Eucalyptus × conjuncta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+685,Eucalyptus consideniana,yertchuk,Eucalyptus,Myrtaceae,Tree,yertchuk
+686,Eucalyptus conspicua,Gippsland swamp-box,Eucalyptus,Myrtaceae,Tree,Gippsland swamp-box
+687,Eucalyptus conveniens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+688,Eucalyptus coolabah,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+689,Eucalyptus cooperiana,many-flowered mallee,Eucalyptus,Myrtaceae,Tree,many-flowered mallee
+690,Eucalyptus copulans,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+691,Eucalyptus cordata,"heart-leaved silver gum
+Eucalyptus cordata subsp. cordata
+Eucalyptus cordata subsp. quadrangulosa  D.Nicolle, B.M.Potts & McKinnon",Eucalyptus,Myrtaceae,Tree,"heart-leaved silver gum
+Eucalyptus cordata subsp. cordata
+Eucalyptus cordata subsp. quadrangulosa  D.Nicolle, B.M.Potts & McKinnon"
+692,Eucalyptus cornuta,yate,Eucalyptus,Myrtaceae,Tree,yate
+693,Eucalyptus coronata,crowned mallee,Eucalyptus,Myrtaceae,Tree,crowned mallee
+694,Eucalyptus corrugata,"rough fruited mallee, rib-fruited mallee",Eucalyptus,Myrtaceae,Tree,"rough fruited mallee, rib-fruited mallee"
+695,Eucalyptus corticosa,"Creswick apple-box, Olinda box",Eucalyptus,Myrtaceae,Tree,"Creswick apple-box, Olinda box"
+696,Eucalyptus corynodes,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+697,Eucalyptus cosmophylla,"cup gum, bog gum or scrub gum",Eucalyptus,Myrtaceae,Tree,"cup gum, bog gum or scrub gum"
+698,Eucalyptus costuligera,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+699,Eucalyptus crebra,"narrow-leaved ironbark, narrow-leaved red ironbark, muggago",Eucalyptus,Myrtaceae,Tree,"narrow-leaved ironbark, narrow-leaved red ironbark, muggago"
+700,Eucalyptus crenulata,"Buxton gum, Victorian silver gum",Eucalyptus,Myrtaceae,Tree,"Buxton gum, Victorian silver gum"
+701,Eucalyptus creta,large-fruited gimlet,Eucalyptus,Myrtaceae,Tree,large-fruited gimlet
+702,Eucalyptus cretata,Darke Peak mallee,Eucalyptus,Myrtaceae,Tree,Darke Peak mallee
+703,Eucalyptus crispata,Yandanooka mallee,Eucalyptus,Myrtaceae,Tree,Yandanooka mallee
+704,Eucalyptus croajingolensis,East Gippsland peppermint,Eucalyptus,Myrtaceae,Tree,East Gippsland peppermint
+705,Eucalyptus crucis,"silver mallee
+Eucalyptus crucis subsp. lanceolata  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,Paynes Find mallee
+706,Eucalyptus cullenii,Cullen's ironbark,Eucalyptus,Myrtaceae,Tree,Cullen's ironbark
+707,Eucalyptus cunninghamii,cliff mallee ash,Eucalyptus,Myrtaceae,Tree,cliff mallee ash
+708,Eucalyptus cuprea,mallee box,Eucalyptus,Myrtaceae,Tree,mallee box
+709,Eucalyptus cupularis,"Halls Creek white gum, wawulinggi",Eucalyptus,Myrtaceae,Tree,"Halls Creek white gum, wawulinggi"
+710,Eucalyptus curtisii,Plunkett mallee,Eucalyptus,Myrtaceae,Tree,Plunkett mallee
+711,Eucalyptus cuspidata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+712,Eucalyptus cyanophylla,"Murraylands mallee, blue-leaved mallee, ghost mallee",Eucalyptus,Myrtaceae,Tree,"Murraylands mallee, blue-leaved mallee, ghost mallee"
+713,Eucalyptus cyclostoma,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+714,Eucalyptus cylindriflora,white mallee,Eucalyptus,Myrtaceae,Tree,white mallee
+715,Eucalyptus cylindrocarpa,woodline mallee,Eucalyptus,Myrtaceae,Tree,woodline mallee
+716,Eucalyptus cypellocarpa,"mountain grey gum, monkey gum, spotted mountain grey gum",Eucalyptus,Myrtaceae,Tree,"mountain grey gum, monkey gum, spotted mountain grey gum"
+717,Eucalyptus dalrympleana,"mountain gum, mountain white gum, broad-leaved ribbon gum
+Eucalyptus dalrympleana subsp. dalrympleana
+Eucalyptus dalrympleana subsp. heptantha L.A.S.Johnson",Eucalyptus,Myrtaceae,Tree,"mountain gum, mountain white gum, broad-leaved ribbon gum
+Eucalyptus dalrympleana subsp. dalrympleana
+Eucalyptus dalrympleana subsp. heptantha L.A.S.Johnson"
+718,Eucalyptus dawsonii,"slaty gum, slaty box,",Eucalyptus,Myrtaceae,Tree,"slaty gum, slaty box,"
+719,Eucalyptus dealbata,"tumbledown red gum, hill redgum",Eucalyptus,Myrtaceae,Tree,"tumbledown red gum, hill redgum"
+720,Eucalyptus deanei,"mountain blue gum, round-leaved gum",Eucalyptus,Myrtaceae,Tree,"mountain blue gum, round-leaved gum"
+721,Eucalyptus decipiens,"redheart, redheart moit",Eucalyptus,Myrtaceae,Tree,"redheart, redheart moit"
+722,Eucalyptus decolor,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+723,Eucalyptus decorticans,gum-top ironbark,Eucalyptus,Myrtaceae,Tree,gum-top ironbark
+724,Eucalyptus decurva,slender mallee,Eucalyptus,Myrtaceae,Tree,slender mallee
+725,Eucalyptus deflexa,Lake King mallee,Eucalyptus,Myrtaceae,Tree,Lake King mallee
+726,Eucalyptus deglupta,"rainbow eucalyptus, Mindanao gum, rainbow gum",Eucalyptus,Myrtaceae,Tree,"rainbow eucalyptus, Mindanao gum, rainbow gum"
+727,Eucalyptus delegatensis,"alpine ash, gum-topped stringybark, white-top
+Eucalyptus delegatensis subsp. delegatensis
+Eucalyptus delegatensis subsp. tasmaniensis Boland",Eucalyptus,Myrtaceae,Tree,"alpine ash, gum-topped stringybark, white-top
+Eucalyptus delegatensis subsp. delegatensis
+Eucalyptus delegatensis subsp. tasmaniensis Boland"
+728,Eucalyptus delicata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+729,Eucalyptus dendromorpha,"Budawang ash, giant mallee ash",Eucalyptus,Myrtaceae,Tree,"Budawang ash, giant mallee ash"
+730,Eucalyptus densa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+731,Eucalyptus denticulata,"Errinundra shining gum, shining gum",Eucalyptus,Myrtaceae,Tree,"Errinundra shining gum, shining gum"
+732,Eucalyptus depauperata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+733,Eucalyptus desmondensis,Desmond mallee,Eucalyptus,Myrtaceae,Tree,Desmond mallee
+734,Eucalyptus deuaensis,Mongamulla mallee,Eucalyptus,Myrtaceae,Tree,Mongamulla mallee
+735,Eucalyptus dielsii,"cap-fruited mallee, cap-fruited mallet",Eucalyptus,Myrtaceae,Tree,"cap-fruited mallee, cap-fruited mallet"
+736,Eucalyptus diminuta,spring mallee,Eucalyptus,Myrtaceae,Tree,spring mallee
+737,Eucalyptus diptera,two-winged gimlet,Eucalyptus,Myrtaceae,Tree,two-winged gimlet
+738,Eucalyptus discreta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+739,Eucalyptus dissimulata,red-capped mallee,Eucalyptus,Myrtaceae,Tree,red-capped mallee
+740,Eucalyptus distans,Katherine box,Eucalyptus,Myrtaceae,Tree,Katherine box
+741,Eucalyptus distuberosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+742,Eucalyptus diversicolor,karri,Eucalyptus,Myrtaceae,Tree,karri
+743,Eucalyptus diversifolia,"soap mallee, coastal white mallee, coast gum
+Eucalyptus diversifolia subsp. hesperia I.J.Wright & Ladiges",Eucalyptus,Myrtaceae,Tree,"soap mallee, coastal white mallee, coast gum
+Eucalyptus diversifolia subsp. hesperia I.J.Wright & Ladiges"
+744,Eucalyptus dives,"broad-leaved peppermint, blue peppermint",Eucalyptus,Myrtaceae,Tree,"broad-leaved peppermint, blue peppermint"
+745,Eucalyptus dolichocera,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+746,Eucalyptus dolichorhyncha,fuchsia gum,Eucalyptus,Myrtaceae,Tree,fuchsia gum
+747,Eucalyptus dolorosa,"Mount Misery mallee, Dandaragan mallee",Eucalyptus,Myrtaceae,Tree,"Mount Misery mallee, Dandaragan mallee"
+748,Eucalyptus doratoxylon,"spearwood mallee, spearwood, geitch-gmunt",Eucalyptus,Myrtaceae,Tree,"spearwood mallee, spearwood, geitch-gmunt"
+749,Eucalyptus dorrigoensis,Dorrigo white gum,Eucalyptus,Myrtaceae,Tree,Dorrigo white gum
+750,Eucalyptus drummondii,"Drummond's gum, Drummond's mallee",Eucalyptus,Myrtaceae,Tree,"Drummond's gum, Drummond's mallee"
+751,Eucalyptus dumosa,"white mallee, dumosa mallee, Congoo mallee",Eucalyptus,Myrtaceae,Tree,"white mallee, dumosa mallee, Congoo mallee"
+752,Eucalyptus dundasii,Dundas blackbutt,Eucalyptus,Myrtaceae,Tree,Dundas blackbutt
+753,Eucalyptus dunnii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+754,Eucalyptus dura,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+755,Eucalyptus dwyeri,"Dwyer's red gum, Dwyer's mallee gum",Eucalyptus,Myrtaceae,Tree,"Dwyer's red gum, Dwyer's mallee gum"
+756,Eucalyptus ebbanoensis,"sandplain mallee
+Eucalyptus ebbanoensis subsp. ebbanoensis
+Eucalyptus ebbanoensis subsp. glauciramula L.A.S.Johnson & K.D.Hill
+Eucalyptus ebbanoensis subsp. photina Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"sandplain mallee
+Eucalyptus ebbanoensis subsp. ebbanoensis
+Eucalyptus ebbanoensis subsp. glauciramula L.A.S.Johnson & K.D.Hill
+Eucalyptus ebbanoensis subsp. photina Brooker & Hopper"
+757,Eucalyptus ecostata,coastal silver mallee,Eucalyptus,Myrtaceae,Tree,coastal silver mallee
+758,Eucalyptus educta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+759,Eucalyptus effusa,"rough-barked gimlet
+Eucalyptus effusa subsp. effusa
+Eucalyptus effusa subsp. exsul L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"rough-barked gimlet
+Eucalyptus effusa subsp. effusa
+Eucalyptus effusa subsp. exsul L.A.S.Johnson & K.D.Hill"
+760,Eucalyptus elaeophloia,"Nunniong gum, olive mallee",Eucalyptus,Myrtaceae,Tree,"Nunniong gum, olive mallee"
+761,Eucalyptus elata,"river peppermint, river white gum",Eucalyptus,Myrtaceae,Tree,"river peppermint, river white gum"
+762,Eucalyptus elegans,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+763,Eucalyptus elliptica,Bendemeer white gum,Eucalyptus,Myrtaceae,Tree,Bendemeer white gum
+764,Eucalyptus erectifolia,Stirling Range mallee,Eucalyptus,Myrtaceae,Tree,Stirling Range mallee
+765,Eucalyptus eremicola,"Vokes Hill mallee
+Eucalyptus eremicola subsp. eremicola
+Eucalyptus eremicola subsp. peeneri (Blakely) D.Nicolle",Eucalyptus,Myrtaceae,Tree,"Vokes Hill mallee
+Eucalyptus eremicola subsp. eremicola
+Eucalyptus eremicola subsp. peeneri (Blakely) D.Nicolle"
+766,Eucalyptus eremophila,"sand mallet, tall sand mallee
+Eucalyptus eremophila (Diels) Maiden subsp. eremophila (Blakely) D.Nicolle
+Eucalyptus eremophila subsp. pterocarpa (Blakely & H.Steedman) L.A.S.Johnson & Blaxell",Eucalyptus,Myrtaceae,Tree,"sand mallet, tall sand mallee
+Eucalyptus eremophila (Diels) Maiden subsp. eremophila (Blakely) D.Nicolle
+Eucalyptus eremophila subsp. pterocarpa (Blakely & H.Steedman) L.A.S.Johnson & Blaxell"
+767,Eucalyptus erosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+768,Eucalyptus erythrocorys,"illyarrie, red-capped gum, helmet nut gum",Eucalyptus,Myrtaceae,Tree,"illyarrie, red-capped gum, helmet nut gum"
+769,Eucalyptus erythronema,"red-flowered mallee
+Eucalyptus erythronema Turcz. subsp. erythronema
+Eucalyptus erythronema subsp. inornata D.Nicolle & M.E.French",Eucalyptus,Myrtaceae,Tree,"red-flowered mallee
+Eucalyptus erythronema Turcz. subsp. erythronema
+Eucalyptus erythronema subsp. inornata D.Nicolle & M.E.French"
+770,Eucalyptus eudesmioides,"mallalie, desert gum, mallabie",Eucalyptus,Myrtaceae,Tree,"mallalie, desert gum, mallabie"
+771,Eucalyptus eugenioides,"thin-leaved stringybark, white stringybark",Eucalyptus,Myrtaceae,Tree,"thin-leaved stringybark, white stringybark"
+772,Eucalyptus ewartiana,Ewart's mallee,Eucalyptus,Myrtaceae,Tree,Ewart's mallee
+773,Eucalyptus exigua,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+774,Eucalyptus exilipes,fine-leaved ironbark,Eucalyptus,Myrtaceae,Tree,fine-leaved ironbark
+775,Eucalyptus exilis,Boyagin mallee,Eucalyptus,Myrtaceae,Tree,Boyagin mallee
+776,Eucalyptus expressa,Wollemi stringybark,Eucalyptus,Myrtaceae,Tree,Wollemi stringybark
+777,Eucalyptus exserta,"Queensland peppermint, bendo, yellow messmate",Eucalyptus,Myrtaceae,Tree,"Queensland peppermint, bendo, yellow messmate"
+778,Eucalyptus extensa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+779,Eucalyptus extrica,eastern tallerack,Eucalyptus,Myrtaceae,Tree,eastern tallerack
+780,Eucalyptus falcata,"silver mallet, toolyumuck",Eucalyptus,Myrtaceae,Tree,"silver mallet, toolyumuck"
+781,Eucalyptus falciformis,"Grampians peppermint, western peppermint",Eucalyptus,Myrtaceae,Tree,"Grampians peppermint, western peppermint"
+782,Eucalyptus famelica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+783,Eucalyptus farinosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+784,Eucalyptus fasciculosa,"pink gum, hill gum, scrub gum",Eucalyptus,Myrtaceae,Tree,"pink gum, hill gum, scrub gum"
+785,Eucalyptus fastigata,"brown barrel, cut-tail",Eucalyptus,Myrtaceae,Tree,"brown barrel, cut-tail"
+786,Eucalyptus fibrosa,"red ironbark, broad-leaved red ironbark, broad-leaved red ironbark
+Eucalyptus fibrosa subsp. fibrosa
+Eucalyptus fibrosa subsp. nubila (Maiden & Blakely) L.A.S.Johnson",Eucalyptus,Myrtaceae,Tree,blue-leaved ironbark
+787,Eucalyptus filiformis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+788,Eucalyptus fitzgeraldii,"broad-leaved box, paper-barked box",Eucalyptus,Myrtaceae,Tree,"broad-leaved box, paper-barked box"
+789,Eucalyptus flavida,yellow-flowered mallee,Eucalyptus,Myrtaceae,Tree,yellow-flowered mallee
+790,Eucalyptus flindersii,"South Australian grey mallee, mallee red gum, grey mallee",Eucalyptus,Myrtaceae,Tree,"South Australian grey mallee, mallee red gum, grey mallee"
+791,Eucalyptus flocktoniae,"merrit
+Eucalyptus flocktoniae subsp. flocktoniae
+Eucalyptus flocktoniae subsp. hebes D.Nicolle",Eucalyptus,Myrtaceae,Tree,"merrit
+Eucalyptus flocktoniae subsp. flocktoniae
+Eucalyptus flocktoniae subsp. hebes D.Nicolle"
+792,Eucalyptus foecunda,"narrow-leaved red mallee, Fremantle mallee, coastal dune mallee",Eucalyptus,Myrtaceae,Tree,"narrow-leaved red mallee, Fremantle mallee, coastal dune mallee"
+793,Eucalyptus foliosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+794,Eucalyptus formanii,"Die Hardy mallee, Forman's mallee, feather gum",Eucalyptus,Myrtaceae,Tree,"Die Hardy mallee, Forman's mallee, feather gum"
+795,Eucalyptus forresterae,brumby sallee,Eucalyptus,Myrtaceae,Tree,brumby sallee
+796,Eucalyptus forrestiana,"fuchsia gum, fuchsia mallee",Eucalyptus,Myrtaceae,Tree,"fuchsia gum, fuchsia mallee"
+797,Eucalyptus fracta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+798,Eucalyptus fraseri,"Balladonia gum
+Eucalyptus fraseri subsp. fraseri
+Eucalyptus fraseri subsp. melanobasis L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Balladonia gum
+Eucalyptus fraseri subsp. fraseri
+Eucalyptus fraseri subsp. melanobasis L.A.S.Johnson & K.D.Hill"
+799,Eucalyptus fraxinoides,"white ash, white mountain ash",Eucalyptus,Myrtaceae,Tree,"white ash, white mountain ash"
+800,Eucalyptus frenchiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+801,Eucalyptus froggattii,Kamarooka mallee,Eucalyptus,Myrtaceae,Tree,Kamarooka mallee
+802,Eucalyptus fruticosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+803,Eucalyptus fulgens,green scentbark,Eucalyptus,Myrtaceae,Tree,green scentbark
+804,Eucalyptus fusiformis,"grey ironbark, Nambucca ironbark",Eucalyptus,Myrtaceae,Tree,"grey ironbark, Nambucca ironbark"
+805,Eucalyptus gamophylla,"warilu, blue-leaved mallee, twin-leaved mallee, blue mallee",Eucalyptus,Myrtaceae,Tree,"warilu, blue-leaved mallee, twin-leaved mallee, blue mallee"
+806,Eucalyptus gardneri,"blue mallet, woacal
+Eucalyptus gardneri subsp. gardneri
+Eucalyptus gardneri subsp. ravensthorpensis  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"blue mallet, woacal
+Eucalyptus gardneri subsp. gardneri
+Eucalyptus gardneri subsp. ravensthorpensis  Brooker & Hopper"
+807,Eucalyptus georgei,"Hyden blue gum
+Eucalyptus georgei subsp. fulgida Brooker & Hopper
+Eucalyptus georgei subsp. georgei",Eucalyptus,Myrtaceae,Tree,"Hyden blue gum
+Eucalyptus georgei subsp. fulgida Brooker & Hopper
+Eucalyptus georgei subsp. georgei"
+808,Eucalyptus gigantangion,Kakadu woollybutt,Eucalyptus,Myrtaceae,Tree,Kakadu woollybutt
+809,Eucalyptus gillenii,"mallee red gum, Mt Gillen mallee, Mt Lindsay mallee",Eucalyptus,Myrtaceae,Tree,"mallee red gum, Mt Gillen mallee, Mt Lindsay mallee"
+810,Eucalyptus gillii,"curly mallee, Arkaroola mallee, silver mallee",Eucalyptus,Myrtaceae,Tree,"curly mallee, Arkaroola mallee, silver mallee"
+811,Eucalyptus gittinsii,"northern sandplain mallee
+Eucalyptus gittinsii subsp. gittinsii
+Eucalyptus gittinsii subsp. illucida  D.Nicolle",Eucalyptus,Myrtaceae,Tree,"northern sandplain mallee
+Eucalyptus gittinsii subsp. gittinsii
+Eucalyptus gittinsii subsp. illucida  D.Nicolle"
+812,Eucalyptus glaucescens,"Tingiringi gum, Tingaringy gum",Eucalyptus,Myrtaceae,Tree,"Tingiringi gum, Tingaringy gum"
+813,Eucalyptus glaucina,slaty red gum,Eucalyptus,Myrtaceae,Tree,slaty red gum
+814,Eucalyptus globoidea,white stringybark,Eucalyptus,Myrtaceae,Tree,white stringybark
+815,Eucalyptus globulus,"southern blue gum, eurabbie, blue gum, Victorian blue gum
+Eucalyptus globulus Labill. subsp. globulus",Eucalyptus,Myrtaceae,Tree,Victorian eurabbie
+816,Eucalyptus glomericassis,scarp white gum,Eucalyptus,Myrtaceae,Tree,scarp white gum
+817,Eucalyptus glomerosa,jinjulu,Eucalyptus,Myrtaceae,Tree,jinjulu
+818,Eucalyptus gomphocephala,tuart,Eucalyptus,Myrtaceae,Tree,tuart
+819,Eucalyptus gongylocarpa,"baarla, marble gum, desert gum",Eucalyptus,Myrtaceae,Tree,"baarla, marble gum, desert gum"
+820,Eucalyptus goniantha,"Jerdacuttup mallee
+Eucalyptus goniantha subsp. goniantha
+Eucalyptus goniantha subsp. kynoura  D.Nicolle & M.E.French",Eucalyptus,Myrtaceae,Tree,"Jerdacuttup mallee
+Eucalyptus goniantha subsp. goniantha
+Eucalyptus goniantha subsp. kynoura  D.Nicolle & M.E.French"
+821,Eucalyptus goniocalyx,"long-leaved box, olive-barked box, bundy
+Eucalyptus goniocalyx subsp. exposa D.Nicolle
+Eucalyptus goniocalyx subsp. fallax Rule
+Eucalyptus goniocalyx subsp. goniocalyx
+Eucalyptus goniocalyx subsp. laxa Rule
+Eucalyptus goniocalyx subsp. viridissima Rule",Eucalyptus,Myrtaceae,Tree,"long-leaved box, olive-barked box, bundy
+Eucalyptus goniocalyx subsp. exposa D.Nicolle
+Eucalyptus goniocalyx subsp. fallax Rule
+Eucalyptus goniocalyx subsp. goniocalyx
+Eucalyptus goniocalyx subsp. laxa Rule
+Eucalyptus goniocalyx subsp. viridissima Rule"
+822,Eucalyptus goniocarpa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+823,Eucalyptus gracilis,"yorrell, white mallee",Eucalyptus,Myrtaceae,Tree,"yorrell, white mallee"
+824,Eucalyptus grandis,"flooded gum, rose gum",Eucalyptus,Myrtaceae,Tree,"flooded gum, rose gum"
+825,Eucalyptus granitica,granite ironbark,Eucalyptus,Myrtaceae,Tree,granite ironbark
+826,Eucalyptus gregoryensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+827,Eucalyptus gregsoniana,"Wolgan snow gum, mallee snow gum",Eucalyptus,Myrtaceae,Tree,"Wolgan snow gum, mallee snow gum"
+828,Eucalyptus griffithsii,Griffith's grey gum,Eucalyptus,Myrtaceae,Tree,Griffith's grey gum
+829,Eucalyptus grisea,grey gum,Eucalyptus,Myrtaceae,Tree,grey gum
+830,Eucalyptus grossa,coarse-leaved mallee,Eucalyptus,Myrtaceae,Tree,coarse-leaved mallee
+831,Eucalyptus guilfoylei,yellow tingle,Eucalyptus,Myrtaceae,Tree,yellow tingle
+832,Eucalyptus gunnii,"cider gum
+Eucalyptus gunnii subsp. divaricata (McAulay & Brett) B.M.Potts
+Eucalyptus gunnii subsp. gunnii",Eucalyptus,Myrtaceae,Tree,"cider gum
+Eucalyptus gunnii subsp. divaricata (McAulay & Brett) B.M.Potts
+Eucalyptus gunnii subsp. gunnii"
+833,Eucalyptus gypsophila,kopi mallee,Eucalyptus,Myrtaceae,Tree,kopi mallee
+834,Eucalyptus haemastoma,scribbly gum,Eucalyptus,Myrtaceae,Tree,scribbly gum
+835,Eucalyptus hallii,Goodwood gum,Eucalyptus,Myrtaceae,Tree,Goodwood gum
+836,Eucalyptus halophila,salt lake mallee,Eucalyptus,Myrtaceae,Tree,salt lake mallee
+837,Eucalyptus hawkeri,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+838,Eucalyptus hebetifolia,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+839,Eucalyptus helidonica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+840,Eucalyptus herbertiana,"Kalumburu gum, yellow-barked mallee",Eucalyptus,Myrtaceae,Tree,"Kalumburu gum, yellow-barked mallee"
+841,Eucalyptus histophylla,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+842,Eucalyptus horistes,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+843,Eucalyptus houseana,"Kimberley white gum, tropical white gum",Eucalyptus,Myrtaceae,Tree,"Kimberley white gum, tropical white gum"
+844,Eucalyptus howittiana,Howitt's box,Eucalyptus,Myrtaceae,Tree,Howitt's box
+845,Eucalyptus hypolaena,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+846,Eucalyptus hypostomatica,Pokolbin box,Eucalyptus,Myrtaceae,Tree,Pokolbin box
+847,Eucalyptus ignorabilis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+848,Eucalyptus imitans,Illawarra stringybark,Eucalyptus,Myrtaceae,Tree,Illawarra stringybark
+849,Eucalyptus imlayensis,Mount Imlay mallee,Eucalyptus,Myrtaceae,Tree,Mount Imlay mallee
+850,Eucalyptus impensa,Eneabba mallee,Eucalyptus,Myrtaceae,Tree,Eneabba mallee
+851,Eucalyptus incerata,Mount Dau mallee,Eucalyptus,Myrtaceae,Tree,Mount Dau mallee
+852,Eucalyptus incrassata,"lerp mallee, yellow mallee, ridge fruited mallee, rib fruited mallee",Eucalyptus,Myrtaceae,Tree,"lerp mallee, yellow mallee, ridge fruited mallee, rib fruited mallee"
+853,Eucalyptus indurata,ironbark or ironbark mallee,Eucalyptus,Myrtaceae,Tree,ironbark or ironbark mallee
+854,Eucalyptus infera,Durikai mallee,Eucalyptus,Myrtaceae,Tree,Durikai mallee
+855,Eucalyptus infracorticata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+856,Eucalyptus insularis,"Twin Peak Island mallee, North Twin Peak Island mallee
+Eucalyptus insularis subsp. continentalis D.Nicolle & Brooker
+Eucalyptus insularis subsp. insularis",Eucalyptus,Myrtaceae,Tree,"Twin Peak Island mallee, North Twin Peak Island mallee
+Eucalyptus insularis subsp. continentalis D.Nicolle & Brooker
+Eucalyptus insularis subsp. insularis"
+857,Eucalyptus interstans,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+858,Eucalyptus intertexta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+859,Eucalyptus jacksonii,red tingle,Eucalyptus,Myrtaceae,Tree,red tingle
+860,Eucalyptus jensenii,Wandi ironbark,Eucalyptus,Myrtaceae,Tree,Wandi ironbark
+861,Eucalyptus jimberlanica,Norseman gimlet,Eucalyptus,Myrtaceae,Tree,Norseman gimlet
+862,Eucalyptus johnsoniana,Johnson's mallee,Eucalyptus,Myrtaceae,Tree,Johnson's mallee
+863,Eucalyptus johnstonii,Tasmanian yellow gum,Eucalyptus,Myrtaceae,Tree,Tasmanian yellow gum
+864,Eucalyptus jucunda,Yuna mallee,Eucalyptus,Myrtaceae,Tree,Yuna mallee
+865,Eucalyptus jutsonii,"Jutson's mallee
+Eucalyptus jutsonii subsp. jutsonii
+Eucalyptus jutsonii subsp. kobela D.Nicolle & M.E.French",Eucalyptus,Myrtaceae,Tree,"Jutson's mallee
+Eucalyptus jutsonii subsp. jutsonii
+Eucalyptus jutsonii subsp. kobela D.Nicolle & M.E.French"
+866,Eucalyptus kabiana,Mt Beerwah mallee,Eucalyptus,Myrtaceae,Tree,Mt Beerwah mallee
+867,Eucalyptus × kalangadooensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+868,Eucalyptus kartzoffiana,Araluen gum,Eucalyptus,Myrtaceae,Tree,Araluen gum
+869,Eucalyptus kenneallyi,Kenneally's white gum,Eucalyptus,Myrtaceae,Tree,Kenneally's white gum
+870,Eucalyptus kessellii,"Jerdacuttup mallee
+Eucalyptus kessellii subsp. eugnosta L.A.S.Johnson & K.D.Hill
+Eucalyptus kessellii subsp. kessellii",Eucalyptus,Myrtaceae,Tree,"Jerdacuttup mallee
+Eucalyptus kessellii subsp. eugnosta L.A.S.Johnson & K.D.Hill
+Eucalyptus kessellii subsp. kessellii"
+871,Eucalyptus kingsmillii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+872,Eucalyptus kitsoniana,"Gippsland mallee, bog gum",Eucalyptus,Myrtaceae,Tree,"Gippsland mallee, bog gum"
+873,Eucalyptus kochii,"oil mallee
+Eucalyptus kochii subsp. amaryssia D.Nicolle
+Eucalyptus kochii subsp. borealis (C.A.Gardner) D.Nicolle
+Eucalyptus kochii subsp. kochii
+Eucalyptus kochii subsp. plenissima (C.A.Gardner) Brooker
+Eucalyptus kochii subsp. yellowdinensis D.Nicolle",Eucalyptus,Myrtaceae,Tree,"oil mallee
+Eucalyptus kochii subsp. amaryssia D.Nicolle
+Eucalyptus kochii subsp. borealis (C.A.Gardner) D.Nicolle
+Eucalyptus kochii subsp. kochii
+Eucalyptus kochii subsp. plenissima (C.A.Gardner) Brooker
+Eucalyptus kochii subsp. yellowdinensis D.Nicolle"
+874,Eucalyptus kondininensis,Kondinin blackbutt,Eucalyptus,Myrtaceae,Tree,Kondinin blackbutt
+875,Eucalyptus koolpinensis,Koolpin box,Eucalyptus,Myrtaceae,Tree,Koolpin box
+876,Eucalyptus kruseana,"book-leaf mallee, Kruses's bookleaf mallee",Eucalyptus,Myrtaceae,Tree,"book-leaf mallee, Kruses's bookleaf mallee"
+877,Eucalyptus kumarlensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+878,Eucalyptus kybeanensis,Kybean mallee ash,Eucalyptus,Myrtaceae,Tree,Kybean mallee ash
+879,Eucalyptus lacrimans,weeping snow gum,Eucalyptus,Myrtaceae,Tree,weeping snow gum
+880,Eucalyptus laeliae,"Darling Range ghost gum, butter gum",Eucalyptus,Myrtaceae,Tree,"Darling Range ghost gum, butter gum"
+881,Eucalyptus laevis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+882,Eucalyptus laevopinea,silver top stringybark,Eucalyptus,Myrtaceae,Tree,silver top stringybark
+883,Eucalyptus × lamprocalyx,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+884,Eucalyptus lane-poolei,salmon white gum,Eucalyptus,Myrtaceae,Tree,salmon white gum
+885,Eucalyptus langleyi,"green mallee ash, albatross mallee",Eucalyptus,Myrtaceae,Tree,"green mallee ash, albatross mallee"
+886,Eucalyptus lansdowneana,"crimson mallee, red-flowered mallee box",Eucalyptus,Myrtaceae,Tree,"crimson mallee, red-flowered mallee box"
+887,Eucalyptus largeana,Craven grey box,Eucalyptus,Myrtaceae,Tree,Craven grey box
+888,Eucalyptus largiflorens,black box,Eucalyptus,Myrtaceae,Tree,black box
+889,Eucalyptus × laseronii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+890,Eucalyptus latens,narrow-leaved red mallee,Eucalyptus,Myrtaceae,Tree,narrow-leaved red mallee
+891,Eucalyptus lateritica,laterite mallee,Eucalyptus,Myrtaceae,Tree,laterite mallee
+892,Eucalyptus latisinensis,white mahogany,Eucalyptus,Myrtaceae,Tree,white mahogany
+893,Eucalyptus lehmannii,"bushy yate
+Eucalyptus lehmannii subsp. lehmannii
+Eucalyptus lehmannii subsp. parallela D.Nicolle & M.E.French",Eucalyptus,Myrtaceae,Tree,"bushy yate
+Eucalyptus lehmannii subsp. lehmannii
+Eucalyptus lehmannii subsp. parallela D.Nicolle & M.E.French"
+894,Eucalyptus leprophloia,scaly butt mallee,Eucalyptus,Myrtaceae,Tree,scaly butt mallee
+895,Eucalyptus leptocalyx,"Hopetoun mallee
+Eucalyptus leptocalyx subsp. leptocalyx
+Eucalyptus leptocalyx subsp. petilipes L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Hopetoun mallee
+Eucalyptus leptocalyx subsp. leptocalyx
+Eucalyptus leptocalyx subsp. petilipes L.A.S.Johnson & K.D.Hill"
+896,Eucalyptus leptophleba,"Molloy red box, Molloy box",Eucalyptus,Myrtaceae,Tree,"Molloy red box, Molloy box"
+897,Eucalyptus leptophylla,"March mallee, slender-leaved red mallee, narrow-leaved red mallee",Eucalyptus,Myrtaceae,Tree,"March mallee, slender-leaved red mallee, narrow-leaved red mallee"
+898,Eucalyptus leptopoda,"Tammin mallee,
+Eucalyptus leptopoda subsp. arctata L.A.S.Johnson & K.D.Hill
+Eucalyptus leptopoda subsp. elevata L.A.S.Johnson & K.D.Hill
+Eucalyptus leptopoda subsp. leptopoda
+Eucalyptus leptopoda subsp. subluta L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Tammin mallee,
+Eucalyptus leptopoda subsp. arctata L.A.S.Johnson & K.D.Hill
+Eucalyptus leptopoda subsp. elevata L.A.S.Johnson & K.D.Hill
+Eucalyptus leptopoda subsp. leptopoda
+Eucalyptus leptopoda subsp. subluta L.A.S.Johnson & K.D.Hill"
+899,Eucalyptus lesouefii,goldfields blackbutt,Eucalyptus,Myrtaceae,Tree,goldfields blackbutt
+900,Eucalyptus leucophloia,"snappy gum, migum
+Eucalyptus leucophloia subsp. euroa L.A.S.Johnson & K.D.Hill
+Eucalyptus leucophloia subsp. leucophloia",Eucalyptus,Myrtaceae,Tree,"snappy gum, migum
+Eucalyptus leucophloia subsp. euroa L.A.S.Johnson & K.D.Hill
+Eucalyptus leucophloia subsp. leucophloia"
+901,Eucalyptus leucophylla,Cloncurry box,Eucalyptus,Myrtaceae,Tree,Cloncurry box
+902,Eucalyptus leucoxylon,"yellow gum, blue gum, white ironbark
+Eucalyptus leucoxylon subsp. bellarinensis Rule
+Eucalyptus leucoxylon subsp. connata Rule
+Eucalyptus leucoxylon subsp. leucoxylon
+Eucalyptus leucoxylon subsp. megalocarpa Boland
+Eucalyptus leucoxylon var. pluriflora Boland
+Eucalyptus leucoxylon subsp. pruinosa (Miq.) Boland
+Eucalyptus leucoxylon subsp. stephaniae Rule",Eucalyptus,Myrtaceae,Tree,"yellow gum, blue gum, white ironbark
+Eucalyptus leucoxylon subsp. bellarinensis Rule
+Eucalyptus leucoxylon subsp. connata Rule
+Eucalyptus leucoxylon subsp. leucoxylon
+Eucalyptus leucoxylon subsp. megalocarpa Boland
+Eucalyptus leucoxylon var. pluriflora Boland
+Eucalyptus leucoxylon subsp. pruinosa (Miq.) Boland
+Eucalyptus leucoxylon subsp. stephaniae Rule"
+903,Eucalyptus ligulata,"Lucky Bay mallee
+Eucalyptus ligulata subsp. ligulata
+Eucalyptus ligulata subsp. stirlingica D.Nicolle,",Eucalyptus,Myrtaceae,Tree,"Lucky Bay mallee
+Eucalyptus ligulata subsp. ligulata
+Eucalyptus ligulata subsp. stirlingica D.Nicolle,"
+904,Eucalyptus ligustrina,privet-leaved stringybark,Eucalyptus,Myrtaceae,Tree,privet-leaved stringybark
+905,Eucalyptus limitaris,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+906,Eucalyptus lirata,Kimberley yellowjacket,Eucalyptus,Myrtaceae,Tree,Kimberley yellowjacket
+907,Eucalyptus litoralis,Anglesea box,Eucalyptus,Myrtaceae,Tree,Anglesea box
+908,Eucalyptus litorea,saline mallee,Eucalyptus,Myrtaceae,Tree,saline mallee
+909,Eucalyptus livida,wandoo mallee,Eucalyptus,Myrtaceae,Tree,wandoo mallee
+910,Eucalyptus lockyeri,"Lockyer's box
+Eucalyptus lockyeri subsp. exuta Brooker & Kleinig
+Eucalyptus lockyeri subsp. lockyeri",Eucalyptus,Myrtaceae,Tree,"Lockyer's box
+Eucalyptus lockyeri subsp. exuta Brooker & Kleinig
+Eucalyptus lockyeri subsp. lockyeri"
+911,Eucalyptus longicornis,"red morrel, morryl, poot, pu",Eucalyptus,Myrtaceae,Tree,"red morrel, morryl, poot, pu"
+912,Eucalyptus longifolia,woollybutt,Eucalyptus,Myrtaceae,Tree,woollybutt
+913,Eucalyptus longirostrata,grey gum,Eucalyptus,Myrtaceae,Tree,grey gum
+914,Eucalyptus longissima,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+915,Eucalyptus loxophleba,"York gum, daarwet, goatta, twotta, yandee
+Eucalyptus loxophleba subsp. lissophloia L.A.S.Johnson & K.D.Hill
+Eucalyptus loxophleba subsp. loxophleba
+Eucalyptus loxophleba subsp. supralaevis L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"York gum, daarwet, goatta, twotta, yandee
+Eucalyptus loxophleba subsp. lissophloia L.A.S.Johnson & K.D.Hill
+Eucalyptus loxophleba subsp. loxophleba
+Eucalyptus loxophleba subsp. supralaevis L.A.S.Johnson & K.D.Hill"
+916,Eucalyptus lucasii,Barlee box,Eucalyptus,Myrtaceae,Tree,Barlee box
+917,Eucalyptus lucens,shiny-leaved mallee,Eucalyptus,Myrtaceae,Tree,shiny-leaved mallee
+918,Eucalyptus luculenta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+919,Eucalyptus luehmanniana,yellow top mallee ash,Eucalyptus,Myrtaceae,Tree,yellow top mallee ash
+920,Eucalyptus luteola,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+921,Eucalyptus macarthurii,"Camden woollybutt, Paddy's river box",Eucalyptus,Myrtaceae,Tree,"Camden woollybutt, Paddy's river box"
+922,Eucalyptus mackintii,blue-crowned stringybark,Eucalyptus,Myrtaceae,Tree,blue-crowned stringybark
+923,Eucalyptus × macmahonii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+924,Eucalyptus macrandra,"long-flowered marlock, river yate, twet",Eucalyptus,Myrtaceae,Tree,"long-flowered marlock, river yate, twet"
+925,Eucalyptus macrocarpa,"mottlecah
+Eucalyptus macrocarpa subsp. elachantha Brooker & Hopper
+Eucalyptus macrocarpa subsp. macrocarpa",Eucalyptus,Myrtaceae,Tree,"mottlecah
+Eucalyptus macrocarpa subsp. elachantha Brooker & Hopper
+Eucalyptus macrocarpa subsp. macrocarpa"
+926,Eucalyptus macrorhyncha,"red stringybark
+Eucalyptus macrorhyncha subsp. cannonii (R.T.Baker) L.A.S.Johnson & Blaxell
+Eucalyptus macrorhyncha subsp. macrorhyncha",Eucalyptus,Myrtaceae,Tree,"red stringybark
+Eucalyptus macrorhyncha subsp. cannonii (R.T.Baker) L.A.S.Johnson & Blaxell
+Eucalyptus macrorhyncha subsp. macrorhyncha"
+927,Eucalyptus magnificata,"blue box, northern blue box",Eucalyptus,Myrtaceae,Tree,"blue box, northern blue box"
+928,Eucalyptus major,grey gum,Eucalyptus,Myrtaceae,Tree,grey gum
+929,Eucalyptus malacoxylon,"Moonbi apple box, apple box",Eucalyptus,Myrtaceae,Tree,"Moonbi apple box, apple box"
+930,Eucalyptus mannensis,"Mann Range mallee
+Eucalyptus mannensis subsp. mannensis
+Eucalyptus mannensis subsp. vespertina L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"Mann Range mallee
+Eucalyptus mannensis subsp. mannensis
+Eucalyptus mannensis subsp. vespertina L.A.S.Johnson & K.D.Hill"
+931,Eucalyptus mannifera,"brittle gum, red spotted gum
+Eucalyptus mannifera subsp. gullickii (R.T.Baker & H.G.Sm.) L.A.S.Johnson
+Eucalyptus mannifera subsp. mannifera
+Eucalyptus mannifera subsp. praecox (Maiden) L.A.S.Johnson",Eucalyptus,Myrtaceae,Tree,"brittle gum, red spotted gum
+Eucalyptus mannifera subsp. gullickii (R.T.Baker & H.G.Sm.) L.A.S.Johnson
+Eucalyptus mannifera subsp. mannifera
+Eucalyptus mannifera subsp. praecox (Maiden) L.A.S.Johnson"
+932,Eucalyptus marginata,"jarrah, djarraly, Swan River mahogany
+Eucalyptus marginata subsp. marginata
+Eucalyptus marginata subsp. thalassica Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"jarrah, djarraly, Swan River mahogany
+Eucalyptus marginata subsp. marginata
+Eucalyptus marginata subsp. thalassica Brooker & Hopper"
+933,Eucalyptus mckieana,McKie's stringybark,Eucalyptus,Myrtaceae,Tree,McKie's stringybark
+934,Eucalyptus mcquoidii,Quoin Head marlock,Eucalyptus,Myrtaceae,Tree,Quoin Head marlock
+935,Eucalyptus mediocris,inland white mahogany,Eucalyptus,Myrtaceae,Tree,inland white mahogany
+936,Eucalyptus megacarpa,bullich,Eucalyptus,Myrtaceae,Tree,bullich
+937,Eucalyptus megacornuta,"warted yate, warty yate",Eucalyptus,Myrtaceae,Tree,"warted yate, warty yate"
+938,Eucalyptus megasepala,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+939,Eucalyptus melanoleuca,"yarraman ironbark, nanango ironbark",Eucalyptus,Myrtaceae,Tree,"yarraman ironbark, nanango ironbark"
+940,Eucalyptus melanophitra,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+941,Eucalyptus melanophloia,"silver-leaved ironbark
+Eucalyptus melanophloia subsp. melanophloia
+Eucalyptus melanophloia subsp. nana D.Nicolle & Kleinig",Eucalyptus,Myrtaceae,Tree,"silver-leaved ironbark
+Eucalyptus melanophloia subsp. melanophloia
+Eucalyptus melanophloia subsp. nana D.Nicolle & Kleinig"
+942,Eucalyptus melanoxylon,black morrell,Eucalyptus,Myrtaceae,Tree,black morrell
+943,Eucalyptus melliodora,"yellow box, honey box, yellow ironbark",Eucalyptus,Myrtaceae,Tree,"yellow box, honey box, yellow ironbark"
+944,Eucalyptus merrickiae,goblet mallee,Eucalyptus,Myrtaceae,Tree,goblet mallee
+945,Eucalyptus michaeliana,"Hillgrove gum, brittle gum",Eucalyptus,Myrtaceae,Tree,"Hillgrove gum, brittle gum"
+946,Eucalyptus micranthera,"Alexander River mallee, milkshake mallee",Eucalyptus,Myrtaceae,Tree,"Alexander River mallee, milkshake mallee"
+947,Eucalyptus microcarpa,grey box,Eucalyptus,Myrtaceae,Tree,grey box
+948,Eucalyptus microcorys,tallowwood,Eucalyptus,Myrtaceae,Tree,tallowwood
+949,Eucalyptus microneura,Gilbert River box,Eucalyptus,Myrtaceae,Tree,Gilbert River box
+950,Eucalyptus microschema,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+951,Eucalyptus microtheca,coolibah,Eucalyptus,Myrtaceae,Tree,coolibah
+952,Eucalyptus mimica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+953,Eucalyptus miniata,"Darwin woollybutt, woolewoorng",Eucalyptus,Myrtaceae,Tree,"Darwin woollybutt, woolewoorng"
+954,Eucalyptus minniritchi,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+955,Eucalyptus misella,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+956,Eucalyptus × missilis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+957,Eucalyptus mitchelliana,"Buffalo sallee, Mount Buffalo gum",Eucalyptus,Myrtaceae,Tree,"Buffalo sallee, Mount Buffalo gum"
+958,Eucalyptus moderata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+959,Eucalyptus moluccana,"grey box, gum-topped box, terriyergro",Eucalyptus,Myrtaceae,Tree,"grey box, gum-topped box, terriyergro"
+960,Eucalyptus molyneuxii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+961,Eucalyptus mooreana,"Moore's gum, mountain white gum, King Leopold Range mallee",Eucalyptus,Myrtaceae,Tree,"Moore's gum, mountain white gum, King Leopold Range mallee"
+962,Eucalyptus moorei,"narrow-leaved mallee
+Eucalyptus moorei subsp. moorei
+Eucalyptus moorei subsp.. serpentinicola (L.A.S.Johnson & Blaxell) Brooker & Kleinig",Eucalyptus,Myrtaceae,Tree,"narrow-leaved mallee
+Eucalyptus moorei subsp. moorei
+Eucalyptus moorei subsp.. serpentinicola (L.A.S.Johnson & Blaxell) Brooker & Kleinig"
+963,Eucalyptus morrisbyi,Morrisby's gum,Eucalyptus,Myrtaceae,Tree,Morrisby's gum
+964,Eucalyptus morrisii,grey mallee,Eucalyptus,Myrtaceae,Tree,grey mallee
+965,Eucalyptus muelleriana,yellow stringybark,Eucalyptus,Myrtaceae,Tree,yellow stringybark
+966,Eucalyptus multicaulis,whipstick mallee ash,Eucalyptus,Myrtaceae,Tree,whipstick mallee ash
+967,Eucalyptus myriadena,"blackbutt
+Eucalyptus myriadena subsp. myriadena
+Eucalyptus myriadena subsp. parviflora  Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"blackbutt
+Eucalyptus myriadena subsp. myriadena
+Eucalyptus myriadena subsp. parviflora  Brooker & Hopper"
+968,Eucalyptus nandewarica,mallee red gum,Eucalyptus,Myrtaceae,Tree,mallee red gum
+969,Eucalyptus nebulosa,serpentine peppermint,Eucalyptus,Myrtaceae,Tree,serpentine peppermint
+970,Eucalyptus neglecta,Omeo gum,Eucalyptus,Myrtaceae,Tree,Omeo gum
+971,Eucalyptus × nepeanensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+972,Eucalyptus neutra,Newdegate mallee,Eucalyptus,Myrtaceae,Tree,Newdegate mallee
+973,Eucalyptus newbeyi,Beaufort Inlet mallee,Eucalyptus,Myrtaceae,Tree,Beaufort Inlet mallee
+974,Eucalyptus nicholii,"narrow-leaved black peppermint, willow peppermint",Eucalyptus,Myrtaceae,Tree,"narrow-leaved black peppermint, willow peppermint"
+975,Eucalyptus nigrifunda,desert wandoo,Eucalyptus,Myrtaceae,Tree,desert wandoo
+976,Eucalyptus nitens,"shining gum, silvertop",Eucalyptus,Myrtaceae,Tree,"shining gum, silvertop"
+977,Eucalyptus nitida,Smithton peppermint,Eucalyptus,Myrtaceae,Tree,Smithton peppermint
+978,Eucalyptus nobilis,"ribbon gum, giant white gum",Eucalyptus,Myrtaceae,Tree,"ribbon gum, giant white gum"
+979,Eucalyptus normantonensis,Normanton box,Eucalyptus,Myrtaceae,Tree,Normanton box
+980,Eucalyptus nortonii,"bundy, mealy bundy, long-leaved box",Eucalyptus,Myrtaceae,Tree,"bundy, mealy bundy, long-leaved box"
+981,Eucalyptus notabilis,"Blue Mountains mahogany, mountain mahogany",Eucalyptus,Myrtaceae,Tree,"Blue Mountains mahogany, mountain mahogany"
+982,Eucalyptus notactites,southern limestone mallee,Eucalyptus,Myrtaceae,Tree,southern limestone mallee
+983,Eucalyptus nova-anglica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+984,Eucalyptus × nowraensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+985,Eucalyptus nudicaulis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+986,Eucalyptus nutans,red-flowered moort,Eucalyptus,Myrtaceae,Tree,red-flowered moort
+987,Eucalyptus obconica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+988,Eucalyptus obesa,Ninety Mile Tank mallee,Eucalyptus,Myrtaceae,Tree,Ninety Mile Tank mallee
+989,Eucalyptus obliqua,"messmate stringybark, messmate",Eucalyptus,Myrtaceae,Tree,"messmate stringybark, messmate"
+990,Eucalyptus obtusiflora,"Dongara mallee
+Eucalyptus obtusiflora subsp. cowcowensis L.A.S.Johnson & K.D.Hill
+Eucalyptus obtusiflora subsp. dongarraensis (Maiden & Blakely) L.A.S.Johnson & K.D.Hill
+Eucalyptus obtusiflora subsp. obtusiflora",Eucalyptus,Myrtaceae,Tree,"Dongara mallee
+Eucalyptus obtusiflora subsp. cowcowensis L.A.S.Johnson & K.D.Hill
+Eucalyptus obtusiflora subsp. dongarraensis (Maiden & Blakely) L.A.S.Johnson & K.D.Hill
+Eucalyptus obtusiflora subsp. obtusiflora"
+991,Eucalyptus occidentalis,"flat-topped yate, swamp yate, mo, yundill",Eucalyptus,Myrtaceae,Tree,"flat-topped yate, swamp yate, mo, yundill"
+992,Eucalyptus ochrophloia,yapunyah,Eucalyptus,Myrtaceae,Tree,yapunyah
+993,Eucalyptus odontocarpa,"Sturt Creek mallee, warilyu",Eucalyptus,Myrtaceae,Tree,"Sturt Creek mallee, warilyu"
+994,Eucalyptus odorata,peppermint box,Eucalyptus,Myrtaceae,Tree,peppermint box
+995,Eucalyptus oldfieldii,"Oldfield's mallee
+Eucalyptus oldfieldii F.Muell. subsp. oldfieldii",Eucalyptus,Myrtaceae,Tree,"Oldfield's mallee
+Eucalyptus oldfieldii F.Muell. subsp. oldfieldii"
+996,Eucalyptus oleosa,"red mallee, glossy-leaved red mallee, acorn mallee, oil mallee, giant mallee
+Eucalyptus oleosa subsp. ampliata L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. corvina L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. cylindroidea L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. oleosa",Eucalyptus,Myrtaceae,Tree,"red mallee, glossy-leaved red mallee, acorn mallee, oil mallee, giant mallee
+Eucalyptus oleosa subsp. ampliata L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. corvina L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. cylindroidea L.A.S.Johnson & K.D.Hill
+Eucalyptus oleosa subsp. oleosa"
+997,Eucalyptus olida,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+998,Eucalyptus oligantha,"broad-leaved box
+Eucalyptus oligantha subsp. modica L.A.S.Johnson & K.D.Hill
+Eucalyptus oligantha subsp. oligantha",Eucalyptus,Myrtaceae,Tree,"broad-leaved box
+Eucalyptus oligantha subsp. modica L.A.S.Johnson & K.D.Hill
+Eucalyptus oligantha subsp. oligantha"
+999,Eucalyptus olivina,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1000,Eucalyptus olsenii,woila gum,Eucalyptus,Myrtaceae,Tree,woila gum
+1001,Eucalyptus ophitica,serpentine ironbark,Eucalyptus,Myrtaceae,Tree,serpentine ironbark
+1002,Eucalyptus opimiflora,northern silver mallee,Eucalyptus,Myrtaceae,Tree,northern silver mallee
+1003,Eucalyptus optima,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1004,Eucalyptus oraria,ooragmandee,Eucalyptus,Myrtaceae,Tree,ooragmandee
+1005,Eucalyptus orbifolia,round-leaved mallee,Eucalyptus,Myrtaceae,Tree,round-leaved mallee
+1006,Eucalyptus ordiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1007,Eucalyptus oreades,"Blue Mountains ash, white ash, smooth-barked mountain ash",Eucalyptus,Myrtaceae,Tree,"Blue Mountains ash, white ash, smooth-barked mountain ash"
+1008,Eucalyptus orgadophila,mountain coolibah,Eucalyptus,Myrtaceae,Tree,mountain coolibah
+1009,Eucalyptus ornans,Avon peppermint,Eucalyptus,Myrtaceae,Tree,Avon peppermint
+1010,Eucalyptus ornata,silver mallet,Eucalyptus,Myrtaceae,Tree,silver mallet
+1011,Eucalyptus orophila,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1012,Eucalyptus orthostemon,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1013,Eucalyptus ovata,"swamp gum or black gum
+Eucalyptus ovata var. grandiflora Maiden
+Eucalyptus ovata Labill. var. ovata",Eucalyptus,Myrtaceae,Tree,"swamp gum or black gum
+Eucalyptus ovata var. grandiflora Maiden
+Eucalyptus ovata Labill. var. ovata"
+1014,Eucalyptus ovularis,small-fruited mallee,Eucalyptus,Myrtaceae,Tree,small-fruited mallee
+1015,Eucalyptus oxymitra,sharp-capped mallee,Eucalyptus,Myrtaceae,Tree,sharp-capped mallee
+1016,Eucalyptus pachycalyx,"shiny-barked gum
+Eucalyptus pachycalyx subsp. banyabba K.D.Hill
+Eucalyptus pachycalyx subsp. pachycalyx
+Eucalyptus pachycalyx subsp. waajensis  L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"shiny-barked gum
+Eucalyptus pachycalyx subsp. banyabba K.D.Hill
+Eucalyptus pachycalyx subsp. pachycalyx
+Eucalyptus pachycalyx subsp. waajensis  L.A.S.Johnson & K.D.Hill"
+1017,Eucalyptus pachyloma,Kalgan Plains mallee,Eucalyptus,Myrtaceae,Tree,Kalgan Plains mallee
+1018,Eucalyptus pachyphylla,"thick-leaved mallee, red-budded mallee",Eucalyptus,Myrtaceae,Tree,"thick-leaved mallee, red-budded mallee"
+1019,Eucalyptus paedoglauca,Mount Stuart ironbark,Eucalyptus,Myrtaceae,Tree,Mount Stuart ironbark
+1020,Eucalyptus paliformis,Wadbilliga ash,Eucalyptus,Myrtaceae,Tree,Wadbilliga ash
+1021,Eucalyptus paludicola,"Mount Compass swamp gum, marsh gum, Fleurieu swamp gum",Eucalyptus,Myrtaceae,Tree,"Mount Compass swamp gum, marsh gum, Fleurieu swamp gum"
+1022,Eucalyptus panda,"tumbledown ironbark, Yetman ironbark",Eucalyptus,Myrtaceae,Tree,"tumbledown ironbark, Yetman ironbark"
+1023,Eucalyptus paniculata,grey ironbark,Eucalyptus,Myrtaceae,Tree,grey ironbark
+1024,Eucalyptus pantoleuca,"round-leaved gum, Panton River white gum",Eucalyptus,Myrtaceae,Tree,"round-leaved gum, Panton River white gum"
+1025,Eucalyptus paralimnetica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1026,Eucalyptus parramattensis,"Parramatta red gum, drooping red gum
+Eucalyptus parramattensis subsp. decadens L.A.S.Johnson & Blaxell
+Eucalyptus parramattensis subsp. parramattensis
+Eucalyptus parramattensis var. sphaerocalyx Blakely",Eucalyptus,Myrtaceae,Tree,"Parramatta red gum, drooping red gum
+Eucalyptus parramattensis subsp. decadens L.A.S.Johnson & Blaxell
+Eucalyptus parramattensis subsp. parramattensis
+Eucalyptus parramattensis var. sphaerocalyx Blakely"
+1027,Eucalyptus parvula,small-leaved gum,Eucalyptus,Myrtaceae,Tree,small-leaved gum
+1028,Eucalyptus patellaris,weeping box,Eucalyptus,Myrtaceae,Tree,weeping box
+1029,Eucalyptus patens,"yarri, blackbutt,",Eucalyptus,Myrtaceae,Tree,"yarri, blackbutt,"
+1030,Eucalyptus pauciflora,"snow gum, cabbage gum, white sally
+Eucalyptus pauciflora subsp. acerina Rule",Eucalyptus,Myrtaceae,Tree,"Jounama snow gum
+Eucalyptus pauciflora var. × densiflora Blakely & McKie
+Eucalyptus pauciflora subsp. hedraia Rule
+Eucalyptus pauciflora subsp. niphophila (Maiden & Blakely) L.A.S.Johnson & Blaxell
+Eucalyptus pauciflora subsp. parvifructa Rule
+Eucalyptus pauciflora Sieber ex Spreng. subsp. pauciflora
+Eucalyptus pauciflora var. × rusticata Blakely"
+1031,Eucalyptus pellita,large-fruited red mahogany,Eucalyptus,Myrtaceae,Tree,large-fruited red mahogany
+1032,Eucalyptus pendens,Badgingarra weeping mallee,Eucalyptus,Myrtaceae,Tree,Badgingarra weeping mallee
+1033,Eucalyptus peninsularis,Cummins mallee,Eucalyptus,Myrtaceae,Tree,Cummins mallee
+1034,Eucalyptus perangusta,fine-leaved mallee,Eucalyptus,Myrtaceae,Tree,fine-leaved mallee
+1035,Eucalyptus percostata,"rib-capped mallee, Devils peak mallee",Eucalyptus,Myrtaceae,Tree,"rib-capped mallee, Devils peak mallee"
+1036,Eucalyptus perriniana,spinning gum,Eucalyptus,Myrtaceae,Tree,spinning gum
+1037,Eucalyptus persistens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1038,Eucalyptus petiolaris,"Eyre Peninsula blue gum, water gum, blue gum",Eucalyptus,Myrtaceae,Tree,"Eyre Peninsula blue gum, water gum, blue gum"
+1039,Eucalyptus petraea,granite rock box,Eucalyptus,Myrtaceae,Tree,granite rock box
+1040,Eucalyptus petrensis,"limestone mallee, straggly mallee, koodjat",Eucalyptus,Myrtaceae,Tree,"limestone mallee, straggly mallee, koodjat"
+1041,Eucalyptus phaenophylla,"common southern mallee
+Eucalyptus phaenophylla subsp. interjacens Brooker & Hopper
+Eucalyptus phaenophylla Brooker & Hopper subsp. phaenophylla",Eucalyptus,Myrtaceae,Tree,"common southern mallee
+Eucalyptus phaenophylla subsp. interjacens Brooker & Hopper
+Eucalyptus phaenophylla Brooker & Hopper subsp. phaenophylla"
+1042,Eucalyptus phenax,"green dumosa mallee, white mallee
+Eucalyptus phenax subsp. compressa D.Nicolle
+Eucalyptus phenax Brooker & Slee subsp. phenax",Eucalyptus,Myrtaceae,Tree,"green dumosa mallee, white mallee
+Eucalyptus phenax subsp. compressa D.Nicolle
+Eucalyptus phenax Brooker & Slee subsp. phenax"
+1043,Eucalyptus phoenicea,"scarlet gum, gnaingar, ngainggar",Eucalyptus,Myrtaceae,Tree,"scarlet gum, gnaingar, ngainggar"
+1044,Eucalyptus phoenix,brumby mallee-gum,Eucalyptus,Myrtaceae,Tree,brumby mallee-gum
+1045,Eucalyptus × phylacis,Meelup mallee,Eucalyptus,Myrtaceae,Tree,Meelup mallee
+1046,Eucalyptus pilbarensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1047,Eucalyptus pileata,capped mallee,Eucalyptus,Myrtaceae,Tree,capped mallee
+1048,Eucalyptus pilularis,blackbutt,Eucalyptus,Myrtaceae,Tree,blackbutt
+1049,Eucalyptus pimpiniana,pimpin mallee,Eucalyptus,Myrtaceae,Tree,pimpin mallee
+1050,Eucalyptus piperita,"Sydney peppermint, urn-fruited peppermint",Eucalyptus,Myrtaceae,Tree,"Sydney peppermint, urn-fruited peppermint"
+1051,Eucalyptus placita,grey ironbark,Eucalyptus,Myrtaceae,Tree,grey ironbark
+1052,Eucalyptus planchoniana,"needlebark stringybark, bastard tallowwood",Eucalyptus,Myrtaceae,Tree,"needlebark stringybark, bastard tallowwood"
+1053,Eucalyptus planipes,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1054,Eucalyptus platycorys,Boorabbin mallee,Eucalyptus,Myrtaceae,Tree,Boorabbin mallee
+1055,Eucalyptus platydisca,Jimberlana mallee,Eucalyptus,Myrtaceae,Tree,Jimberlana mallee
+1056,Eucalyptus platyphylla,poplar gum or white gum,Eucalyptus,Myrtaceae,Tree,poplar gum or white gum
+1057,Eucalyptus platypus,"moort, maalok
+Eucalyptus platypus subsp. congregata Brooker & Hopper
+Eucalyptus platypus Hook.f. subsp. platypus",Eucalyptus,Myrtaceae,Tree,"moort, maalok
+Eucalyptus platypus subsp. congregata Brooker & Hopper
+Eucalyptus platypus Hook.f. subsp. platypus"
+1058,Eucalyptus pleurocarpa,"tallerack, talyerock, tallerack",Eucalyptus,Myrtaceae,Tree,"tallerack, talyerock, tallerack"
+1059,Eucalyptus pleurocorys,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1060,Eucalyptus pluricaulis,"purple-leaved mallee
+Eucalyptus pluricaulis Brooker & Hopper subsp. pluricaulis
+Eucalyptus pluricaulis subsp. porphyrea Brooker & Hopper",Eucalyptus,Myrtaceae,Tree,"purple-leaved mallee
+Eucalyptus pluricaulis Brooker & Hopper subsp. pluricaulis
+Eucalyptus pluricaulis subsp. porphyrea Brooker & Hopper"
+1061,Eucalyptus polita,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1062,Eucalyptus polyanthemos,"red box
+Eucalyptus polyanthemos subsp. longior  Brooker & Slee
+Eucalyptus polyanthemos subsp. marginalis  Rule
+Eucalyptus polyanthemos Schauer subsp. polyanthemos
+Eucalyptus polyanthemos subsp. vestita  L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"red box
+Eucalyptus polyanthemos subsp. longior  Brooker & Slee
+Eucalyptus polyanthemos subsp. marginalis  Rule
+Eucalyptus polyanthemos Schauer subsp. polyanthemos
+Eucalyptus polyanthemos subsp. vestita  L.A.S.Johnson & K.D.Hill"
+1063,Eucalyptus polybractea,"blue-leaved mallee, blue mallee",Eucalyptus,Myrtaceae,Tree,"blue-leaved mallee, blue mallee"
+1064,Eucalyptus populnea,"poplar box, bimble box, bimbil box",Eucalyptus,Myrtaceae,Tree,"poplar box, bimble box, bimbil box"
+1065,Eucalyptus porosa,"mallee box, Quorn mallee, water mallee",Eucalyptus,Myrtaceae,Tree,"mallee box, Quorn mallee, water mallee"
+1066,Eucalyptus praetermissa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1067,Eucalyptus prava,orange gum,Eucalyptus,Myrtaceae,Tree,orange gum
+1068,Eucalyptus preissiana,"bell-fruited mallee
+Eucalyptus preissiana subsp. lobata  Brooker & Slee
+Eucalyptus preissiana Schauer subsp. preissiana",Eucalyptus,Myrtaceae,Tree,"bell-fruited mallee
+Eucalyptus preissiana subsp. lobata  Brooker & Slee
+Eucalyptus preissiana Schauer subsp. preissiana"
+1069,Eucalyptus prolixa,square-fruited mallet,Eucalyptus,Myrtaceae,Tree,square-fruited mallet
+1070,Eucalyptus prominens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1071,Eucalyptus propinqua,"grey gum, small-fruited grey gum",Eucalyptus,Myrtaceae,Tree,"grey gum, small-fruited grey gum"
+1072,Eucalyptus protensa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1073,Eucalyptus provecta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1074,Eucalyptus proxima,"nodding mallee, red-flowered mallee",Eucalyptus,Myrtaceae,Tree,"nodding mallee, red-flowered mallee"
+1075,Eucalyptus pruiniramis,"Jingymia gum, midlands gum",Eucalyptus,Myrtaceae,Tree,"Jingymia gum, midlands gum"
+1076,Eucalyptus pruinosa,"silver box, silver leaf box, apple box, smoke tree
+Eucalyptus pruinosa subsp. pruinosa
+Eucalyptus pruinosa subsp. tenuata  L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"silver box, silver leaf box, apple box, smoke tree
+Eucalyptus pruinosa subsp. pruinosa
+Eucalyptus pruinosa subsp. tenuata  L.A.S.Johnson & K.D.Hill"
+1077,Eucalyptus psammitica,bastard white mahogany,Eucalyptus,Myrtaceae,Tree,bastard white mahogany
+1078,Eucalyptus pterocarpa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1079,Eucalyptus pulchella,"white peppermint, narrow-leaved peppermint",Eucalyptus,Myrtaceae,Tree,"white peppermint, narrow-leaved peppermint"
+1080,Eucalyptus pulverulenta,silver-leaved mountain gum,Eucalyptus,Myrtaceae,Tree,silver-leaved mountain gum
+1081,Eucalyptus pumila,Pokolbin mallee,Eucalyptus,Myrtaceae,Tree,Pokolbin mallee
+1082,Eucalyptus punctata,grey gum,Eucalyptus,Myrtaceae,Tree,grey gum
+1083,Eucalyptus purpurata,Bandalup silver mallet,Eucalyptus,Myrtaceae,Tree,Bandalup silver mallet
+1084,Eucalyptus pyrenea,Pyrenees gum,Eucalyptus,Myrtaceae,Tree,Pyrenees gum
+1085,Eucalyptus pyriformis,"pear-fruited mallee, Dowerin rose",Eucalyptus,Myrtaceae,Tree,"pear-fruited mallee, Dowerin rose"
+1086,Eucalyptus pyrocarpa,large-fruited blackbutt,Eucalyptus,Myrtaceae,Tree,large-fruited blackbutt
+1087,Eucalyptus quadrangulata,"white-topped box, coast white box",Eucalyptus,Myrtaceae,Tree,"white-topped box, coast white box"
+1088,Eucalyptus quadrans,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1089,Eucalyptus quadricostata,square-fruited ironbark,Eucalyptus,Myrtaceae,Tree,square-fruited ironbark
+1090,Eucalyptus quaerenda,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1091,Eucalyptus quinniorum,monkey gum,Eucalyptus,Myrtaceae,Tree,monkey gum
+1092,Eucalyptus racemosa,"snappy gum, narrow-leaved scribbly gum",Eucalyptus,Myrtaceae,Tree,"snappy gum, narrow-leaved scribbly gum"
+1093,Eucalyptus radiata,"narrow-leaved peppermint, Forth River peppermint,
+Eucalyptus radiata Sieber ex DC. subsp. radiata
+Eucalyptus radiata subsp. robertsonii (Blakely) L.A.S.Johnson & Blaxell
+Eucalyptus radiata subsp. sejuncta L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"narrow-leaved peppermint, Forth River peppermint,
+Eucalyptus radiata Sieber ex DC. subsp. radiata
+Eucalyptus radiata subsp. robertsonii (Blakely) L.A.S.Johnson & Blaxell
+Eucalyptus radiata subsp. sejuncta L.A.S.Johnson & K.D.Hill"
+1094,Eucalyptus rameliana,Ramel's mallee,Eucalyptus,Myrtaceae,Tree,Ramel's mallee
+1095,Eucalyptus raveretiana,black ironbox,Eucalyptus,Myrtaceae,Tree,black ironbox
+1096,Eucalyptus ravida,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1097,Eucalyptus recta,silver mallet,Eucalyptus,Myrtaceae,Tree,silver mallet
+1098,Eucalyptus recurva,Mongarlowe mallee,Eucalyptus,Myrtaceae,Tree,Mongarlowe mallee
+1099,Eucalyptus redimiculifera,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1100,Eucalyptus redunca,black marlock,Eucalyptus,Myrtaceae,Tree,black marlock
+1101,Eucalyptus regnans,"mountain ash, swamp gum, stringy gum",Eucalyptus,Myrtaceae,Tree,"mountain ash, swamp gum, stringy gum"
+1102,Eucalyptus relicta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1103,Eucalyptus remota,"Kangaroo Island ash, Kangaroo Island mallee ash, Mount Taylor mallee",Eucalyptus,Myrtaceae,Tree,"Kangaroo Island ash, Kangaroo Island mallee ash, Mount Taylor mallee"
+1104,Eucalyptus repullulans,chrysoprase mallee,Eucalyptus,Myrtaceae,Tree,chrysoprase mallee
+1105,Eucalyptus resinifera,"red mahogany, red messmate
+Eucalyptus resinifera subsp. hemilampra (F.Muell.) L.A.S.Johnson & K.D.Hill
+Eucalyptus resinifera Sm. subsp. resinifera",Eucalyptus,Myrtaceae,Tree,"red mahogany, red messmate
+Eucalyptus resinifera subsp. hemilampra (F.Muell.) L.A.S.Johnson & K.D.Hill
+Eucalyptus resinifera Sm. subsp. resinifera"
+1106,Eucalyptus retinens,Hillgrove box,Eucalyptus,Myrtaceae,Tree,Hillgrove box
+1107,Eucalyptus retusa,Point Hood yate,Eucalyptus,Myrtaceae,Tree,Point Hood yate
+1108,Eucalyptus rhodantha,"rose mallee
+Eucalyptus rhodantha  var. petiolaris Blakely
+Eucalyptus rhodantha Blakely & H.Steedman var. rhodantha",Eucalyptus,Myrtaceae,Tree,"rose mallee
+Eucalyptus rhodantha  var. petiolaris Blakely
+Eucalyptus rhodantha Blakely & H.Steedman var. rhodantha"
+1109,Eucalyptus rhombica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1110,Eucalyptus rhomboidea,diamond gum,Eucalyptus,Myrtaceae,Tree,diamond gum
+1111,Eucalyptus rigens,"saltlake mallee, blue salt mallee",Eucalyptus,Myrtaceae,Tree,"saltlake mallee, blue salt mallee"
+1112,Eucalyptus rigidula,stiff-leaved mallee,Eucalyptus,Myrtaceae,Tree,stiff-leaved mallee
+1113,Eucalyptus risdonii,Risdon peppermint,Eucalyptus,Myrtaceae,Tree,Risdon peppermint
+1114,Eucalyptus robusta,"swamp mahogany, swamp messmate",Eucalyptus,Myrtaceae,Tree,"swamp mahogany, swamp messmate"
+1115,Eucalyptus rodwayi,swamp peppermint,Eucalyptus,Myrtaceae,Tree,swamp peppermint
+1116,Eucalyptus rosacea,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1117,Eucalyptus rossii,"inland scribbly gum, white gum",Eucalyptus,Myrtaceae,Tree,"inland scribbly gum, white gum"
+1118,Eucalyptus rowleyi,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1119,Eucalyptus roycei,Shark Bay mallee,Eucalyptus,Myrtaceae,Tree,Shark Bay mallee
+1120,Eucalyptus rubida,"candlebark, ribbon gum, white gum
+Eucalyptus rubida subsp. barbigerorum L.A.S.Johnson & K.D.Hill
+Eucalyptus rubida H.Deane & Maiden subsp. rubida",Eucalyptus,Myrtaceae,Tree,"candlebark, ribbon gum, white gum
+Eucalyptus rubida subsp. barbigerorum L.A.S.Johnson & K.D.Hill
+Eucalyptus rubida H.Deane & Maiden subsp. rubida"
+1121,Eucalyptus rubiginosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1122,Eucalyptus rudderi,Rudder's box,Eucalyptus,Myrtaceae,Tree,Rudder's box
+1123,Eucalyptus rudis,"flooded gum, moitch, colaille, gooloorto, koolert
+Eucalyptus rudis subsp. cratyantha Brooker & Hopper
+Eucalyptus rudis Endl. subsp. rudis",Eucalyptus,Myrtaceae,Tree,"flooded gum, moitch, colaille, gooloorto, koolert
+Eucalyptus rudis subsp. cratyantha Brooker & Hopper
+Eucalyptus rudis Endl. subsp. rudis"
+1124,Eucalyptus rugosa,Kingscote mallee,Eucalyptus,Myrtaceae,Tree,Kingscote mallee
+1125,Eucalyptus rugulata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1126,Eucalyptus rummeryi,"steel box, Rummery's box, brown box",Eucalyptus,Myrtaceae,Tree,"steel box, Rummery's box, brown box"
+1127,Eucalyptus rupestris,Prince Regent gum,Eucalyptus,Myrtaceae,Tree,Prince Regent gum
+1128,Eucalyptus sabulosa,Wimmera scentbark,Eucalyptus,Myrtaceae,Tree,Wimmera scentbark
+1129,Eucalyptus salicola,"salt gum, salt lake salmon gum, salt salmon gum",Eucalyptus,Myrtaceae,Tree,"salt gum, salt lake salmon gum, salt salmon gum"
+1130,Eucalyptus saligna,Sydney blue gum or blue gum,Eucalyptus,Myrtaceae,Tree,Sydney blue gum or blue gum
+1131,Eucalyptus salmonophloia,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1132,Eucalyptus salubris,"gimlet, fluted gum tree, gimlet gum, silver-topped gimlet",Eucalyptus,Myrtaceae,Tree,"gimlet, fluted gum tree, gimlet gum, silver-topped gimlet"
+1133,Eucalyptus sargentii,"Salt River gum
+Eucalyptus sargentii subsp. onesia D.Nicolle
+Eucalyptus sargentii subsp. sargentii",Eucalyptus,Myrtaceae,Tree,"Salt River gum
+Eucalyptus sargentii subsp. onesia D.Nicolle
+Eucalyptus sargentii subsp. sargentii"
+1134,Eucalyptus saxatilis,"Suggan Buggan mallee, Mount Wheeler mallee",Eucalyptus,Myrtaceae,Tree,"Suggan Buggan mallee, Mount Wheeler mallee"
+1135,Eucalyptus scias,"large-fruited red mahogany
+Eucalyptus scias subsp. apoda L.A.S.Johnson & K.D.Hill
+Eucalyptus scias subsp. scias",Eucalyptus,Myrtaceae,Tree,"large-fruited red mahogany
+Eucalyptus scias subsp. apoda L.A.S.Johnson & K.D.Hill
+Eucalyptus scias subsp. scias"
+1136,Eucalyptus scoparia,"Wallangarra white gum, willow gum",Eucalyptus,Myrtaceae,Tree,"Wallangarra white gum, willow gum"
+1137,Eucalyptus scopulorum,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1138,Eucalyptus scyphocalyx,"goblet mallee
+Eucalyptus scyphocalyx subsp. scyphocalyx
+Eucalyptus scyphocalyx subsp. triadica L.A.S.Johnson & K.D.Hill",Eucalyptus,Myrtaceae,Tree,"goblet mallee
+Eucalyptus scyphocalyx subsp. scyphocalyx
+Eucalyptus scyphocalyx subsp. triadica L.A.S.Johnson & K.D.Hill"
+1139,Eucalyptus seeana,narrow-leaved red gum,Eucalyptus,Myrtaceae,Tree,narrow-leaved red gum
+1140,Eucalyptus semiglobosa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1141,Eucalyptus semota,marymia mallee,Eucalyptus,Myrtaceae,Tree,marymia mallee
+1142,Eucalyptus sepulcralis,"weeping gum, weeping mallee",Eucalyptus,Myrtaceae,Tree,"weeping gum, weeping mallee"
+1143,Eucalyptus serraensis,Grampians stringybark,Eucalyptus,Myrtaceae,Tree,Grampians stringybark
+1144,Eucalyptus sessilis,"Finke River mallee, red bud mallee, river mallee",Eucalyptus,Myrtaceae,Tree,"Finke River mallee, red bud mallee, river mallee"
+1145,Eucalyptus sheathiana,ribbon-barked gum,Eucalyptus,Myrtaceae,Tree,ribbon-barked gum
+1146,Eucalyptus shirleyi,"Shirley's silver leafed ironbark, silver-leaved ironbark, Shirley's silver leaved ironbark",Eucalyptus,Myrtaceae,Tree,"Shirley's silver leafed ironbark, silver-leaved ironbark, Shirley's silver leaved ironbark"
+1147,Eucalyptus sicilifolia,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1148,Eucalyptus siderophloia,northern grey ironbark,Eucalyptus,Myrtaceae,Tree,northern grey ironbark
+1149,Eucalyptus sideroxylon,"mugga ironbark, red ironbark
+Eucalyptus sideroxylon subsp. improcera A.R.Bean
+Eucalyptus sideroxylon subsp. sideroxylon",Eucalyptus,Myrtaceae,Tree,"mugga ironbark, red ironbark
+Eucalyptus sideroxylon subsp. improcera A.R.Bean
+Eucalyptus sideroxylon subsp. sideroxylon"
+1150,Eucalyptus sieberi,"silvertop ash, black ash",Eucalyptus,Myrtaceae,Tree,"silvertop ash, black ash"
+1151,Eucalyptus silvestris,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1152,Eucalyptus similis,"inland yellowjacket, Queensland yellowjacket",Eucalyptus,Myrtaceae,Tree,"inland yellowjacket, Queensland yellowjacket"
+1153,Eucalyptus singularis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1154,Eucalyptus sinuosa,octopus mallee,Eucalyptus,Myrtaceae,Tree,octopus mallee
+1155,Eucalyptus smithii,"gully gum, gully peppermint, blackbutt peppermint, ironbark peppermint",Eucalyptus,Myrtaceae,Tree,"gully gum, gully peppermint, blackbutt peppermint, ironbark peppermint"
+1156,Eucalyptus socialis,"red mallee, grey mallee
+Eucalyptus socialis subsp. eucentrica (L.A.S.Johnson & K.D.Hill) D.Nicolle",Eucalyptus,Myrtaceae,Tree,green-leaved red mallee
+1157,Eucalyptus sparsa,northern ranges box,Eucalyptus,Myrtaceae,Tree,northern ranges box
+1158,Eucalyptus sparsifolia,narrow-leaved stringybark,Eucalyptus,Myrtaceae,Tree,narrow-leaved stringybark
+1159,Eucalyptus spathulata,"swamp mallet, narrow leaved gimlet, swamp gimlet
+Eucalyptus spathulata subsp. salina D.Nicolle & Brooker
+Eucalyptus spathulata subsp. spathulata",Eucalyptus,Myrtaceae,Tree,"swamp mallet, narrow leaved gimlet, swamp gimlet
+Eucalyptus spathulata subsp. salina D.Nicolle & Brooker
+Eucalyptus spathulata subsp. spathulata"
+1160,Eucalyptus sphaerocarpa,Blackdown stringybark,Eucalyptus,Myrtaceae,Tree,Blackdown stringybark
+1161,Eucalyptus splendens,apple jack,Eucalyptus,Myrtaceae,Tree,apple jack
+1162,Eucalyptus sporadica,Burngup mallee,Eucalyptus,Myrtaceae,Tree,Burngup mallee
+1163,Eucalyptus spreta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1164,Eucalyptus squamosa,scaly bark,Eucalyptus,Myrtaceae,Tree,scaly bark
+1165,Eucalyptus staeri,Albany blackbutt,Eucalyptus,Myrtaceae,Tree,Albany blackbutt
+1166,Eucalyptus staigeriana,lemon-scented ironbark,Eucalyptus,Myrtaceae,Tree,lemon-scented ironbark
+1167,Eucalyptus steedmanii,"Steedman's gum, Steedman's mallet",Eucalyptus,Myrtaceae,Tree,"Steedman's gum, Steedman's mallet"
+1168,Eucalyptus stellulata,"black sallee, black sally",Eucalyptus,Myrtaceae,Tree,"black sallee, black sally"
+1169,Eucalyptus stenostoma,Jillaga ash,Eucalyptus,Myrtaceae,Tree,Jillaga ash
+1170,Eucalyptus × stoataptera,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1171,Eucalyptus stoatei,"scarlet pear gum, Stoat's mallee",Eucalyptus,Myrtaceae,Tree,"scarlet pear gum, Stoat's mallee"
+1172,Eucalyptus stowardii,fluted-horn mallee,Eucalyptus,Myrtaceae,Tree,fluted-horn mallee
+1173,Eucalyptus striaticalyx,"Cue York gum, kopi gum
+Eucalyptus striaticalyx subsp. delicata D.Nicolle & P.J.Lang
+Eucalyptus striaticalyx W.Fitzg. subsp. striaticalyx",Eucalyptus,Myrtaceae,Tree,"Cue York gum, kopi gum
+Eucalyptus striaticalyx subsp. delicata D.Nicolle & P.J.Lang
+Eucalyptus striaticalyx W.Fitzg. subsp. striaticalyx"
+1174,Eucalyptus stricklandii,Strickland's gum,Eucalyptus,Myrtaceae,Tree,Strickland's gum
+1175,Eucalyptus stricta,Blue Mountains mallee ash,Eucalyptus,Myrtaceae,Tree,Blue Mountains mallee ash
+1176,Eucalyptus strzeleckii,"Strzelecki gum, wax-tip",Eucalyptus,Myrtaceae,Tree,"Strzelecki gum, wax-tip"
+1177,Eucalyptus sturgissiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1178,Eucalyptus subangusta,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1179,Eucalyptus subcrenulata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1180,Eucalyptus suberea,"Mount Lesueur mallee, cork mallee",Eucalyptus,Myrtaceae,Tree,"Mount Lesueur mallee, cork mallee"
+1181,Eucalyptus subtilis,narrow-leaved mallee,Eucalyptus,Myrtaceae,Tree,narrow-leaved mallee
+1182,Eucalyptus suffulgens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1183,Eucalyptus suggrandis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1184,Eucalyptus surgens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1185,Eucalyptus sweedmaniana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1186,Eucalyptus synandra,Jingymia mallee,Eucalyptus,Myrtaceae,Tree,Jingymia mallee
+1187,Eucalyptus talyuberlup,Stirling Range yate,Eucalyptus,Myrtaceae,Tree,Stirling Range yate
+1188,Eucalyptus tardecidens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1189,Eucalyptus taurina,Helidon ironbark,Eucalyptus,Myrtaceae,Tree,Helidon ironbark
+1190,Eucalyptus tectifica,"Darwin box, grey box",Eucalyptus,Myrtaceae,Tree,"Darwin box, grey box"
+1191,Eucalyptus tenella,narrow-leaved stringybark,Eucalyptus,Myrtaceae,Tree,narrow-leaved stringybark
+1192,Eucalyptus tenera,"glazed mallee, sand mallee",Eucalyptus,Myrtaceae,Tree,"glazed mallee, sand mallee"
+1193,Eucalyptus tenuipes,narrow-leaved white mahogany,Eucalyptus,Myrtaceae,Tree,narrow-leaved white mahogany
+1194,Eucalyptus tenuiramis,silver peppermint,Eucalyptus,Myrtaceae,Tree,silver peppermint
+1195,Eucalyptus tenuis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1196,Eucalyptus tephroclada,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1197,Eucalyptus tephrodes,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1198,Eucalyptus terebra,Balladonia gimlet,Eucalyptus,Myrtaceae,Tree,Balladonia gimlet
+1199,Eucalyptus tereticornis,"forest red gum, blue gum, red irongum
+Eucalyptus tereticornis subsp. basaltica A.R.Bean
+Eucalyptus tereticornis subsp. mediana Brooker & Slee
+Eucalyptus tereticornis subsp. rotunda A.R.Bean
+Eucalyptus tereticornis Sm. subsp. tereticornis",Eucalyptus,Myrtaceae,Tree,"forest red gum, blue gum, red irongum
+Eucalyptus tereticornis subsp. basaltica A.R.Bean
+Eucalyptus tereticornis subsp. mediana Brooker & Slee
+Eucalyptus tereticornis subsp. rotunda A.R.Bean
+Eucalyptus tereticornis Sm. subsp. tereticornis"
+1200,Eucalyptus terrica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1201,Eucalyptus tetrapleura,square-fruited ironbark,Eucalyptus,Myrtaceae,Tree,square-fruited ironbark
+1202,Eucalyptus tetraptera,"square-fruited mallee, four-winged mallee",Eucalyptus,Myrtaceae,Tree,"square-fruited mallee, four-winged mallee"
+1203,Eucalyptus tetrodonta,"Darwin stringybark, messmate",Eucalyptus,Myrtaceae,Tree,"Darwin stringybark, messmate"
+1204,Eucalyptus thamnoides,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1205,Eucalyptus tholiformis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1206,Eucalyptus thozetiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1207,Eucalyptus tindaliae,Tindal's stringybark,Eucalyptus,Myrtaceae,Tree,Tindal's stringybark
+1208,Eucalyptus tintinnans,"ringing gum, Hills salmon gum",Eucalyptus,Myrtaceae,Tree,"ringing gum, Hills salmon gum"
+1209,Eucalyptus todtiana,"coastal blackbutt, pricklybark, dwutta",Eucalyptus,Myrtaceae,Tree,"coastal blackbutt, pricklybark, dwutta"
+1210,Eucalyptus × tokwa,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1211,Eucalyptus torquata,"coral gum, Coolgardie gum",Eucalyptus,Myrtaceae,Tree,"coral gum, Coolgardie gum"
+1212,Eucalyptus tortilis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1213,Eucalyptus transcontinentalis,"redwood, boongul",Eucalyptus,Myrtaceae,Tree,"redwood, boongul"
+1214,Eucalyptus tricarpa,"red ironbark, mugga ironbark
+Eucalyptus tricarpa subsp. decora Rule
+Eucalyptus tricarpa (L.A.S.Johnson) L.A.S.Johnson & K.D.Hill subsp. tricarpa",Eucalyptus,Myrtaceae,Tree,"red ironbark, mugga ironbark
+Eucalyptus tricarpa subsp. decora Rule
+Eucalyptus tricarpa (L.A.S.Johnson) L.A.S.Johnson & K.D.Hill subsp. tricarpa"
+1215,Eucalyptus triflora,"Pigeon House ash, three-flowered ash",Eucalyptus,Myrtaceae,Tree,"Pigeon House ash, three-flowered ash"
+1216,Eucalyptus trivalva,"Victoria Spring mallee, desert mallee",Eucalyptus,Myrtaceae,Tree,"Victoria Spring mallee, desert mallee"
+1217,Eucalyptus tumida,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1218,Eucalyptus ultima,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1219,Eucalyptus umbra,broad-leaved white mahogany,Eucalyptus,Myrtaceae,Tree,broad-leaved white mahogany
+1220,Eucalyptus umbrawarrensis,Umbrawarra gum,Eucalyptus,Myrtaceae,Tree,Umbrawarra gum
+1221,Eucalyptus uncinata,hook-leaved mallee,Eucalyptus,Myrtaceae,Tree,hook-leaved mallee
+1222,Eucalyptus urna,merrit,Eucalyptus,Myrtaceae,Tree,merrit
+1223,Eucalyptus urnigera,urn tree,Eucalyptus,Myrtaceae,Tree,urn tree
+1224,Eucalyptus × urnularis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1225,Eucalyptus urophylla,"Timor white gum, Timor mountain gum, popo, ampupu",Eucalyptus,Myrtaceae,Tree,"Timor white gum, Timor mountain gum, popo, ampupu"
+1226,Eucalyptus utilis,"coastal moort, coastal mort",Eucalyptus,Myrtaceae,Tree,"coastal moort, coastal mort"
+1227,Eucalyptus valens,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1228,Eucalyptus varia,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1229,Eucalyptus vegrandis,"Ongerup mallee
+Eucalyptus vegrandis subsp. recondita D.Nicolle & Brooker
+Eucalyptus vegrandis L.A.S.Johnson & K.D.Hill subsp. vegrandis",Eucalyptus,Myrtaceae,Tree,"Ongerup mallee
+Eucalyptus vegrandis subsp. recondita D.Nicolle & Brooker
+Eucalyptus vegrandis L.A.S.Johnson & K.D.Hill subsp. vegrandis"
+1230,Eucalyptus vernicosa,varnished gum,Eucalyptus,Myrtaceae,Tree,varnished gum
+1231,Eucalyptus verrucata,Mount Abrupt stringybark,Eucalyptus,Myrtaceae,Tree,Mount Abrupt stringybark
+1232,Eucalyptus vesiculosa,Corackerup marlock,Eucalyptus,Myrtaceae,Tree,Corackerup marlock
+1233,Eucalyptus vicina,Manara Hills red gum,Eucalyptus,Myrtaceae,Tree,Manara Hills red gum
+1234,Eucalyptus victoriana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1235,Eucalyptus victrix,"smooth-barked coolibah, western coolibah, little ghost gum",Eucalyptus,Myrtaceae,Tree,"smooth-barked coolibah, western coolibah, little ghost gum"
+1236,Eucalyptus viminalis,"manna gum, white gum, ribbon gum
+Eucalyptus viminalis subsp. cygnetensis Boomsma
+Eucalyptus viminalis subsp. hentyensis Brooker & Slee
+Eucalyptus viminalis subsp. pryoriana (L.A.S.Johnson) Brooker & Slee
+Eucalyptus viminalis subsp. siliceana Rule
+Eucalyptus viminalis Labill. subsp. viminalis",Eucalyptus,Myrtaceae,Tree,"manna gum, white gum, ribbon gum
+Eucalyptus viminalis subsp. cygnetensis Boomsma
+Eucalyptus viminalis subsp. hentyensis Brooker & Slee
+Eucalyptus viminalis subsp. pryoriana (L.A.S.Johnson) Brooker & Slee
+Eucalyptus viminalis subsp. siliceana Rule
+Eucalyptus viminalis Labill. subsp. viminalis"
+1237,Eucalyptus virens,shiny-leaved ironbark,Eucalyptus,Myrtaceae,Tree,shiny-leaved ironbark
+1238,Eucalyptus virginea,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1239,Eucalyptus viridis,green mallee,Eucalyptus,Myrtaceae,Tree,green mallee
+1240,Eucalyptus vittata,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1241,Eucalyptus vokesensis,Vokes Hill mallee,Eucalyptus,Myrtaceae,Tree,Vokes Hill mallee
+1242,Eucalyptus volcanica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1243,Eucalyptus walshii,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1244,Eucalyptus wandoo,"wandoo, dooto, warrnt, wornt
+Eucalyptus wandoo subsp. pulverea Brooker & Hopper
+Eucalyptus wandoo Blakely subsp. wandoo",Eucalyptus,Myrtaceae,Tree,"wandoo, dooto, warrnt, wornt
+Eucalyptus wandoo subsp. pulverea Brooker & Hopper
+Eucalyptus wandoo Blakely subsp. wandoo"
+1245,Eucalyptus websteriana,"Webster's mallee, heart-leaf mallee, dainty mallee
+Eucalyptus websteriana subsp. norsemanica L.A.S.Johnson & K.D.Hill
+Eucalyptus websteriana Maiden subsp. websteriana",Eucalyptus,Myrtaceae,Tree,"Webster's mallee, heart-leaf mallee, dainty mallee
+Eucalyptus websteriana subsp. norsemanica L.A.S.Johnson & K.D.Hill
+Eucalyptus websteriana Maiden subsp. websteriana"
+1246,Eucalyptus wetarensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1247,Eucalyptus whitei,White's ironbark,Eucalyptus,Myrtaceae,Tree,White's ironbark
+1248,Eucalyptus wilcoxii,Deua gum,Eucalyptus,Myrtaceae,Tree,Deua gum
+1249,Eucalyptus williamsiana,large-leaved stringybark,Eucalyptus,Myrtaceae,Tree,large-leaved stringybark
+1250,Eucalyptus willisii,"shining peppermint, promontory peppermint",Eucalyptus,Myrtaceae,Tree,"shining peppermint, promontory peppermint"
+1251,Eucalyptus wimmerensis,"Wimmera mallee box, broad-leaved green mallee",Eucalyptus,Myrtaceae,Tree,"Wimmera mallee box, broad-leaved green mallee"
+1252,Eucalyptus woodwardii,"lemon-flowered gum, Woodward's blackbutt",Eucalyptus,Myrtaceae,Tree,"lemon-flowered gum, Woodward's blackbutt"
+1253,Eucalyptus woollsiana,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1254,Eucalyptus wubinensis,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1255,Eucalyptus wyolensis,Wyola mallee,Eucalyptus,Myrtaceae,Tree,Wyola mallee
+1256,Eucalyptus xanthonema,"yellow-flowered mallee
+Eucalyptus xanthonema subsp. apposita Brooker & Hopper
+Eucalyptus xanthonema Turcz. subsp. xanthonema",Eucalyptus,Myrtaceae,Tree,"yellow-flowered mallee
+Eucalyptus xanthonema subsp. apposita Brooker & Hopper
+Eucalyptus xanthonema Turcz. subsp. xanthonema"
+1257,Eucalyptus xerothermica,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1258,Eucalyptus yalatensis,Yalata mallee,Eucalyptus,Myrtaceae,Tree,Yalata mallee
+1259,Eucalyptus yarraensis,Yarra gum,Eucalyptus,Myrtaceae,Tree,Yarra gum
+1260,Eucalyptus yarriambiack,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1261,Eucalyptus yilgarnensis,"yorrell, yorrel",Eucalyptus,Myrtaceae,Tree,"yorrell, yorrel"
+1262,Eucalyptus youmanii,"Youman's stringybark
+Eucalyptus youmanii var. sphaerocarpa Blakely & McKie",Eucalyptus,Myrtaceae,Tree,"Youman's stringybark
+Eucalyptus youmanii var. sphaerocarpa Blakely & McKie"
+1263,Eucalyptus youngiana,"large-fruited mallee, Ooldea mallee, yarldarlba",Eucalyptus,Myrtaceae,Tree,"large-fruited mallee, Ooldea mallee, yarldarlba"
+1264,Eucalyptus yumbarrana,Yumbarra mallee,Eucalyptus,Myrtaceae,Tree,Yumbarra mallee
+1265,Eucalyptus zopherophloia,blackbutt mallee,Eucalyptus,Myrtaceae,Tree,blackbutt mallee
+1266,Eucalyptus,N/A,Eucalyptus,Myrtaceae,Tree,N/A
+1267,"Eucalyptus, An illustrated guide to identification",N/A,Eucalyptus,Myrtaceae,Tree,N/A
